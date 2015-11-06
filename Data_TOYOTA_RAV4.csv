@@ -1,0 +1,303 @@
+,URL,VIN,brand,condition,cylinders,drive,fuel,loc_prefixes,model,odometer,paint color,price,size,time_Ad,title status,transmission,type,year
+0,http://vancouver.craigslist.ca//bnc/cto/5286608730.html,,toyota,,,,gas,cto,rav4,,,2500.0,,3.0,clean,manual,,1999.0
+1,http://vancouver.craigslist.ca//bnc/cto/5249654848.html,,toyota,,,,gas,cto,rav4,,,2500.0,,27.0,clean,manual,,1999.0
+2,http://vancouver.craigslist.ca//van/cto/5251328354.html,,Toyota,,6 cylinders,4wd,gas,cto,RAV4,86000.0,grey,13000.0,full-size,26.0,rebuilt,automatic,SUV,2008.0
+3,http://vancouver.craigslist.ca//pml/cto/5276567063.html,,toyota,,,,gas,cto,rav4,,,4995.0,,9.0,rebuilt,manual,,2004.0
+4,http://vancouver.craigslist.ca//rds/cto/5251759656.html,,Toyota,excellent,,4wd,gas,cto,RAV4,67000.0,grey,8950.0,full-size,25.0,rebuilt,automatic,SUV,2005.0
+5,http://vancouver.craigslist.ca//bnc/cto/5283658656.html,,toyota,,,,gas,cto,rav4,96000.0,brown,15500.0,,5.0,clean,automatic,SUV,2009.0
+6,http://vancouver.craigslist.ca//rds/cto/5281489514.html,,toyota,good,4 cylinders,4wd,gas,cto,rav4,194000.0,silver,7900.0,mid-size,6.0,clean,manual,SUV,2003.0
+7,http://vancouver.craigslist.ca//pml/cto/5278973596.html,,toyota,like new,4 cylinders,4wd,gas,cto,rav4,138000.0,white,15000.0,,8.0,clean,automatic,SUV,2006.0
+8,http://vancouver.craigslist.ca//nvn/cto/5254552599.html,,Toyota,excellent,,,gas,cto,RAV4,150000.0,silver,13400.0,,23.0,clean,automatic,,2007.0
+9,http://vancouver.craigslist.ca//rds/cto/5276018600.html,,toyota,like new,4 cylinders,,gas,cto,rav4,120000.0,grey,12500.0,,10.0,clean,automatic,,2007.0
+10,http://vancouver.craigslist.ca//van/cto/5273082295.html,,toyota,good,4 cylinders,,gas,cto,rav4,175000.0,,4950.0,,12.0,clean,automatic,,2001.0
+11,http://vancouver.craigslist.ca//rds/cto/5228643224.html,,toyota,,,,gas,cto,rav4,,,10999.0,,41.0,rebuilt,automatic,,2009.0
+12,http://vancouver.craigslist.ca//rds/cto/5254143929.html,,Toyota,excellent,6 cylinders,4wd,gas,cto,RAV4,121500.0,silver,14400.0,full-size,24.0,clean,automatic,SUV,2006.0
+13,http://vancouver.craigslist.ca//pml/cto/5244491342.html,JTEHH20V330241828,toyota,excellent,4 cylinders,4wd,gas,cto,rav4,141000.0,black,8000.0,,30.0,clean,automatic,SUV,2003.0
+14,http://vancouver.craigslist.ca//van/cto/5243754284.html,,toyota,excellent,4 cylinders,fwd,gas,cto,rav4,100000.0,blue,14600.0,full-size,31.0,clean,automatic,SUV,2010.0
+15,,,,,,,,cto,,,,3000.0,,,,,,
+16,,,,,,,,cto,,,,5850.0,,,,,,
+17,http://vancouver.craigslist.ca//van/ctd/5291269513.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,72000.0,grey,18900.0,compact,0.0,clean,automatic,SUV,2010.0
+18,http://vancouver.craigslist.ca//van/ctd/5282213939.html,,TOYOTA,like new,,,gas,ctd,RAV4,72000.0,grey,18900.0,,6.0,clean,automatic,SUV,2010.0
+19,http://vancouver.craigslist.ca//rch/ctd/5288138904.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,2.0,clean,automatic,SUV,2014.0
+20,http://vancouver.craigslist.ca//rch/ctd/5260865713.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,20.0,clean,automatic,SUV,2014.0
+21,http://vancouver.craigslist.ca//pml/ctd/5287784241.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,94000.0,white,18995.0,mid-size,2.0,clean,automatic,SUV,2010.0
+22,http://vancouver.craigslist.ca//rch/ctd/5288451079.html,,TOYOTA,like new,6 cylinders,4wd,gas,ctd,RAV4,152648.0,silver,13800.0,mid-size,2.0,clean,automatic,SUV,2007.0
+23,http://vancouver.craigslist.ca//rch/ctd/5252661642.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,25.0,clean,automatic,SUV,2010.0
+24,http://vancouver.craigslist.ca//pml/ctd/5249571193.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,116393.0,silver,14780.0,compact,27.0,clean,automatic,SUV,2008.0
+25,http://vancouver.craigslist.ca//bnc/ctd/5251065660.html,,Toyota,,,,gas,ctd,Rav4,,,,,26.0,clean,automatic,,2012.0
+26,http://vancouver.craigslist.ca//bnc/ctd/5262081501.html,,toyota,,,,gas,ctd,rav4,,,,,19.0,clean,automatic,,2012.0
+27,http://vancouver.craigslist.ca//rds/ctd/5291571577.html,,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,88600.0,grey,18990.0,mid-size,0.0,clean,automatic,SUV,2011.0
+28,http://vancouver.craigslist.ca//pml/ctd/5291561691.html,,Toyota,like new,4 cylinders,,gas,ctd,RAV4,76847.0,blue,17830.0,,0.0,clean,automatic,,2011.0
+29,http://vancouver.craigslist.ca//rch/ctd/5257224391.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,9858.0,grey,25818.0,mid-size,22.0,clean,automatic,SUV,2014.0
+30,http://vancouver.craigslist.ca//rch/ctd/5260525954.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,20.0,clean,automatic,SUV,2014.0
+31,http://vancouver.craigslist.ca//rch/ctd/5260611291.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,20.0,clean,automatic,SUV,2014.0
+32,http://vancouver.craigslist.ca//rch/ctd/5268022321.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,15.0,clean,automatic,SUV,2014.0
+33,http://vancouver.craigslist.ca//van/ctd/5246129895.html,,Toyota,excellent,,,gas,ctd,RAV4,163200.0,black,13800.0,full-size,29.0,clean,automatic,SUV,2009.0
+34,http://vancouver.craigslist.ca//rch/ctd/5261381824.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,19.0,clean,automatic,SUV,2014.0
+35,http://vancouver.craigslist.ca//rch/ctd/5268023671.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,15.0,clean,automatic,SUV,2014.0
+36,http://vancouver.craigslist.ca//rch/ctd/5261142285.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,19.0,clean,automatic,SUV,2014.0
+37,http://vancouver.craigslist.ca//pml/ctd/5260206712.html,,toyota,like new,6 cylinders,,gas,ctd,rav4,116393.0,silver,14780.0,,20.0,clean,automatic,,2008.0
+38,http://vancouver.craigslist.ca//pml/ctd/5260210155.html,,Toyota,like new,4 cylinders,,gas,ctd,Rav4,17326.0,white,25860.0,,20.0,clean,automatic,,2015.0
+39,http://vancouver.craigslist.ca//rch/ctd/5291357391.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,0.0,clean,automatic,,2015.0
+40,http://vancouver.craigslist.ca//van/ctd/5291228330.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,0.0,clean,automatic,SUV,2012.0
+41,http://vancouver.craigslist.ca//pml/ctd/5267508685.html,,toyota,,,,gas,ctd,rav4,82000.0,,22995.0,,15.0,clean,automatic,SUV,2012.0
+42,http://vancouver.craigslist.ca//pml/ctd/5255065452.html,,toyota,,,,gas,ctd,rav4,82000.0,,22995.0,,23.0,clean,automatic,,2012.0
+43,http://vancouver.craigslist.ca//van/ctd/5264565211.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,17.0,clean,automatic,SUV,2010.0
+44,http://vancouver.craigslist.ca//pml/ctd/5270783641.html,,toyota,,,,gas,ctd,rav4,82000.0,,22995.0,,13.0,clean,automatic,SUV,2012.0
+45,http://vancouver.craigslist.ca//van/ctd/5271333178.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,13.0,clean,automatic,SUV,2010.0
+46,http://vancouver.craigslist.ca//pml/ctd/5268312664.html,,toyota,,,,gas,ctd,rav4,82000.0,,22995.0,,15.0,clean,automatic,SUV,2012.0
+47,http://vancouver.craigslist.ca//pml/ctd/5275028846.html,,toyota,,6 cylinders,,gas,ctd,rav4,82000.0,,22995.0,,10.0,clean,automatic,,2012.0
+48,http://vancouver.craigslist.ca//van/ctd/5264907488.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,17.0,clean,automatic,SUV,2010.0
+49,http://vancouver.craigslist.ca//pml/ctd/5276956969.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,RAV4,76847.0,blue,17830.0,compact,9.0,clean,automatic,SUV,2011.0
+50,http://vancouver.craigslist.ca//rds/ctd/5286770090.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,3.0,clean,automatic,,2011.0
+51,http://vancouver.craigslist.ca//rch/ctd/5290848765.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,0.0,clean,automatic,SUV,2014.0
+52,http://vancouver.craigslist.ca//rch/ctd/5251479329.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,26.0,clean,automatic,SUV,2010.0
+53,http://vancouver.craigslist.ca//rch/ctd/5261137942.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,18888.0,compact,19.0,clean,automatic,SUV,2010.0
+54,http://vancouver.craigslist.ca//rch/ctd/5286843126.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,3.0,clean,automatic,SUV,2014.0
+55,http://vancouver.craigslist.ca//rch/ctd/5260815122.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,18888.0,compact,20.0,clean,automatic,SUV,2010.0
+56,http://vancouver.craigslist.ca//van/ctd/5259948559.html,,Toyota,like new,,4wd,gas,ctd,RAV4,24269.0,grey,25980.0,,20.0,clean,automatic,SUV,2013.0
+57,http://vancouver.craigslist.ca//pml/ctd/5258112977.html,,toyota,,,,gas,ctd,rav4,82000.0,,22995.0,,21.0,clean,automatic,SUV,2012.0
+58,http://vancouver.craigslist.ca//van/ctd/5281682604.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,Rav4,109775.0,,18888.0,,6.0,clean,automatic,SUV,2010.0
+59,http://vancouver.craigslist.ca//rch/ctd/5260509962.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,20.0,clean,automatic,SUV,2014.0
+60,http://vancouver.craigslist.ca//rch/ctd/5255663234.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,23.0,clean,automatic,SUV,2009.0
+61,http://vancouver.craigslist.ca//rch/ctd/5255702976.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,23.0,clean,automatic,SUV,2009.0
+62,http://vancouver.craigslist.ca//rch/ctd/5255807201.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,23.0,clean,automatic,SUV,2009.0
+63,http://vancouver.craigslist.ca//rch/ctd/5259815256.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,20.0,clean,automatic,SUV,2009.0
+64,http://vancouver.craigslist.ca//rch/ctd/5260185379.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,44016.0,silver,21865.0,mid-size,20.0,clean,automatic,SUV,2012.0
+65,http://vancouver.craigslist.ca//rch/ctd/5260513035.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,20.0,clean,automatic,SUV,2014.0
+66,http://vancouver.craigslist.ca//rch/ctd/5268030954.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,RAV4,25818.0,grey,25818.0,mid-size,15.0,clean,automatic,SUV,2014.0
+67,http://vancouver.craigslist.ca//rch/ctd/5283683939.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,5.0,clean,automatic,SUV,2009.0
+68,http://vancouver.craigslist.ca//van/ctd/5286616091.html,,Toyota,excellent,,,gas,ctd,RAV4,163200.0,black,13800.0,full-size,3.0,clean,automatic,SUV,2009.0
+69,http://vancouver.craigslist.ca//rds/ctd/5264655027.html,54233a,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,92800.0,,16988.0,,17.0,clean,automatic,,2009.0
+70,http://vancouver.craigslist.ca//van/ctd/5267707314.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,132000.0,black,15995.0,mid-size,15.0,clean,automatic,SUV,2006.0
+71,http://vancouver.craigslist.ca//van/ctd/5285862191.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,RAV4,96363.0,silver,17888.0,mid-size,3.0,clean,automatic,SUV,2009.0
+72,http://vancouver.craigslist.ca//bnc/ctd/5282341559.html,,toyota,,,,gas,ctd,rav4,,,11250.0,,6.0,clean,automatic,,2007.0
+73,http://vancouver.craigslist.ca//van/ctd/5289915489.html,,Toyota,excellent,,,gas,ctd,RAV4,44016.0,silver,20900.0,,1.0,clean,automatic,SUV,2012.0
+74,http://vancouver.craigslist.ca//bnc/ctd/5275373892.html,,toyota,,,,gas,ctd,rav4,,,11250.0,,10.0,clean,automatic,,2007.0
+75,http://vancouver.craigslist.ca//rds/ctd/5257059011.html,,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,,blue,,,22.0,clean,automatic,SUV,2013.0
+76,http://vancouver.craigslist.ca//rch/ctd/5283026624.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,5.0,clean,automatic,SUV,2009.0
+77,http://vancouver.craigslist.ca//rch/ctd/5283386957.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,5.0,clean,automatic,SUV,2009.0
+78,http://vancouver.craigslist.ca//van/ctd/5264895862.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,17.0,clean,automatic,SUV,2010.0
+79,http://vancouver.craigslist.ca//van/ctd/5272560969.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,12.0,clean,automatic,SUV,2010.0
+80,http://vancouver.craigslist.ca//van/ctd/5289765374.html,,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,64942.0,white,26995.0,compact,1.0,clean,automatic,SUV,2013.0
+81,http://vancouver.craigslist.ca//van/ctd/5266283252.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,16.0,clean,automatic,SUV,2010.0
+82,http://vancouver.craigslist.ca//van/ctd/5266537751.html,,toyota,like new,6 cylinders,4wd,gas,ctd,rav4,73000.0,grey,18900.0,full-size,16.0,clean,automatic,SUV,2010.0
+83,http://vancouver.craigslist.ca//van/ctd/5269813797.html,,Toyota,excellent,,,gas,ctd,RAV4,163200.0,black,13800.0,full-size,14.0,clean,automatic,SUV,2009.0
+84,http://vancouver.craigslist.ca//van/ctd/5269501673.html,,Toyota,excellent,,,gas,ctd,RAV4,163200.0,black,13800.0,full-size,14.0,clean,automatic,SUV,2009.0
+85,http://vancouver.craigslist.ca//van/ctd/5246393153.html,2T3BF4DV4CW209939,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,44016.0,silver,21865.0,compact,29.0,clean,automatic,SUV,2012.0
+86,http://vancouver.craigslist.ca//pml/ctd/5273729043.html,,TOYOTA,excellent,6 cylinders,4wd,gas,ctd,RAV4,116393.0,silver,14780.0,compact,11.0,clean,automatic,SUV,2008.0
+87,http://vancouver.craigslist.ca//pml/ctd/5273953482.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,17710.0,white,25860.0,compact,11.0,clean,automatic,SUV,2015.0
+88,http://vancouver.craigslist.ca//rch/ctd/5289525559.html,,TOYOTA,like new,6 cylinders,4wd,gas,ctd,RAV4,152648.0,silver,13800.0,mid-size,1.0,clean,automatic,SUV,2007.0
+89,http://vancouver.craigslist.ca//rch/ctd/5289510024.html,,TOYOTA,like new,6 cylinders,4wd,gas,ctd,RAV4,152648.0,silver,13800.0,mid-size,1.0,clean,automatic,SUV,2007.0
+90,http://vancouver.craigslist.ca//rch/ctd/5289495728.html,,TOYOTA,like new,6 cylinders,4wd,gas,ctd,RAV4,152648.0,silver,13800.0,mid-size,1.0,clean,automatic,SUV,2007.0
+91,http://vancouver.craigslist.ca//bnc/ctd/5258706056.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,21.0,clean,automatic,,2011.0
+92,http://vancouver.craigslist.ca//rds/ctd/5268108546.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,15.0,clean,automatic,,2011.0
+93,http://vancouver.craigslist.ca//van/ctd/5277220444.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,56750.0,silver,,compact,9.0,clean,automatic,SUV,2012.0
+94,http://vancouver.craigslist.ca//van/ctd/5279190420.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,Rav4,96663.0,blue,,compact,8.0,clean,automatic,SUV,2011.0
+95,http://vancouver.craigslist.ca//pml/ctd/5284868020.html,,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,76847.0,blue,17830.0,compact,4.0,clean,automatic,SUV,2011.0
+96,http://vancouver.craigslist.ca//bnc/ctd/5253839404.html,,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,16586.0,white,27995.0,full-size,24.0,clean,automatic,SUV,2015.0
+97,http://vancouver.craigslist.ca//rch/ctd/5259519244.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,20.0,clean,automatic,SUV,2014.0
+98,http://vancouver.craigslist.ca//van/ctd/5288773654.html,,Toyota,excellent,,,gas,ctd,RAV4,112000.0,,,,2.0,clean,automatic,SUV,2003.0
+99,http://vancouver.craigslist.ca//bnc/ctd/5288750050.html,,toyota,new,4 cylinders,4wd,gas,ctd,rav4,44000.0,blue,14500.0,,2.0,rebuilt,automatic,SUV,2012.0
+100,http://vancouver.craigslist.ca//van/ctd/5288682344.html,,toyota,excellent,,,gas,ctd,rav4,29000.0,,17550.0,,2.0,clean,automatic,,2012.0
+101,http://vancouver.craigslist.ca//van/ctd/5276165645.html,,Toyota,excellent,,fwd,gas,ctd,RAV4,9900.0,,,,10.0,clean,automatic,,2014.0
+102,http://vancouver.craigslist.ca//van/ctd/5288593018.html,,toyota,excellent,,,gas,ctd,rav4,29000.0,,17550.0,,2.0,clean,automatic,,2012.0
+103,http://vancouver.craigslist.ca//rch/ctd/5272535797.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,12.0,clean,automatic,SUV,2009.0
+104,http://vancouver.craigslist.ca//rch/ctd/5282173826.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,6.0,clean,automatic,SUV,2009.0
+105,http://vancouver.craigslist.ca//rch/ctd/5282367398.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,6.0,clean,automatic,SUV,2009.0
+106,http://vancouver.craigslist.ca//rch/ctd/5282368828.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,6.0,clean,automatic,SUV,2009.0
+107,http://vancouver.craigslist.ca//rch/ctd/5282375391.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,66882.0,silver,14995.0,mid-size,6.0,clean,automatic,SUV,2009.0
+108,http://vancouver.craigslist.ca//rds/ctd/5249177127.html,,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,48900.0,black,22900.0,,27.0,clean,automatic,SUV,2014.0
+109,http://vancouver.craigslist.ca//rds/ctd/5255375506.html,,Toyota,excellent,,,gas,ctd,RAV4,133000.0,,14500.0,,23.0,clean,automatic,SUV,2008.0
+110,http://vancouver.craigslist.ca//van/ctd/5288498261.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,110000.0,silver,14600.0,,2.0,clean,automatic,SUV,2010.0
+111,http://vancouver.craigslist.ca//van/ctd/5283565782.html,,Toyota,excellent,,,gas,ctd,RAV4,66921.0,silver,,,5.0,clean,automatic,sedan,2009.0
+112,http://vancouver.craigslist.ca//van/ctd/5283859502.html,,Toyota,excellent,,,gas,ctd,RAV4,89450.0,blue,,,5.0,clean,automatic,sedan,2010.0
+113,http://vancouver.craigslist.ca//rch/ctd/5245397146.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,30.0,clean,automatic,SUV,2014.0
+114,http://vancouver.craigslist.ca//bnc/ctd/5288021990.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,rav4,138000.0,silver,11900.0,mid-size,2.0,rebuilt,automatic,SUV,2009.0
+115,http://vancouver.craigslist.ca//van/ctd/5287974665.html,,Toyota,,,4wd,gas,ctd,RAV4,152648.0,,10500.0,,2.0,clean,automatic,,2007.0
+116,http://vancouver.craigslist.ca//rch/ctd/5251409637.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,18888.0,compact,26.0,clean,automatic,SUV,2010.0
+117,http://vancouver.craigslist.ca//rch/ctd/5287592688.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,2.0,clean,automatic,SUV,2014.0
+118,http://vancouver.craigslist.ca//van/ctd/5277798442.html,,Toyota,excellent,,,gas,ctd,RAV4,44016.0,silver,21865.0,,9.0,clean,automatic,,2012.0
+119,http://vancouver.craigslist.ca//van/ctd/5277804326.html,,Toyota,excellent,,,gas,ctd,RAV4,152648.0,silver,13800.0,,9.0,clean,automatic,,2007.0
+120,http://vancouver.craigslist.ca//rch/ctd/5287530413.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,22888.0,compact,2.0,clean,automatic,SUV,2014.0
+121,http://vancouver.craigslist.ca//rch/ctd/5271419125.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,13.0,clean,automatic,SUV,2009.0
+122,http://vancouver.craigslist.ca//pml/ctd/5271171397.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,17710.0,white,25860.0,compact,13.0,clean,automatic,SUV,2015.0
+123,http://vancouver.craigslist.ca//pml/ctd/5271199680.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,116393.0,silver,14780.0,compact,13.0,clean,automatic,SUV,2008.0
+124,http://vancouver.craigslist.ca//pml/ctd/5280267640.html,,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,76847.0,blue,17830.0,compact,7.0,clean,automatic,SUV,2011.0
+125,http://vancouver.craigslist.ca//rch/ctd/5243546227.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,18888.0,compact,31.0,clean,automatic,SUV,2010.0
+126,http://vancouver.craigslist.ca//rch/ctd/5286476077.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,3.0,clean,automatic,,2015.0
+127,http://vancouver.craigslist.ca//van/ctd/5243514386.html,JTMBK32V366005342,TOYOTA,like new,6 cylinders,4wd,gas,ctd,RAV4,214000.0,black,,mid-size,31.0,clean,automatic,SUV,2006.0
+128,http://vancouver.craigslist.ca//rds/ctd/5283454991.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,136000.0,brown,14500.0,,5.0,clean,automatic,SUV,2009.0
+129,http://vancouver.craigslist.ca//van/ctd/5260633986.html,,toyota,,,4wd,gas,ctd,rav4,152648.0,,13800.0,,20.0,clean,automatic,,2007.0
+130,http://vancouver.craigslist.ca//van/ctd/5278983597.html,,toyota,,,4wd,gas,ctd,rav4,44016.0,,20900.0,,8.0,clean,automatic,,2012.0
+131,http://vancouver.craigslist.ca//van/ctd/5252229170.html,2T3BF4DV4CW209939,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,44200.0,silver,22865.0,mid-size,25.0,clean,automatic,SUV,2012.0
+132,http://vancouver.craigslist.ca//van/ctd/5252255624.html,2T3BF4DV4CW209939,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,44016.0,silver,21865.0,mid-size,25.0,clean,automatic,SUV,2012.0
+133,http://vancouver.craigslist.ca//pml/ctd/5252100427.html,,TOYOTA,excellent,6 cylinders,4wd,gas,ctd,RAV4,116393.0,silver,14780.0,compact,25.0,clean,automatic,SUV,2008.0
+134,http://vancouver.craigslist.ca//rch/ctd/5243789835.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,31.0,clean,automatic,SUV,2010.0
+135,http://vancouver.craigslist.ca//rch/ctd/5244073607.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+136,http://vancouver.craigslist.ca//rch/ctd/5242433505.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,31.0,clean,automatic,SUV,2014.0
+137,http://vancouver.craigslist.ca//pml/ctd/5280170354.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,17710.0,white,25860.0,compact,7.0,clean,automatic,SUV,2015.0
+138,http://vancouver.craigslist.ca//van/ctd/5276778082.html,,toyota,,4 cylinders,,gas,ctd,rav4,,,22865.0,,9.0,clean,automatic,,2012.0
+139,http://vancouver.craigslist.ca//van/ctd/5276054203.html,,toyota,,6 cylinders,,gas,ctd,rav4,,,13800.0,,10.0,clean,automatic,,2007.0
+140,http://vancouver.craigslist.ca//van/ctd/5272245336.html,,toyota,,6 cylinders,,gas,ctd,rav4,,,13800.0,,12.0,clean,automatic,,2007.0
+141,http://vancouver.craigslist.ca//van/ctd/5275841163.html,,toyota,,6 cylinders,,gas,ctd,rav4,,,10500.0,,10.0,clean,automatic,,2007.0
+142,http://vancouver.craigslist.ca//rch/ctd/5250576889.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,,mid-size,26.0,clean,automatic,SUV,2007.0
+143,http://vancouver.craigslist.ca//rch/ctd/5241242528.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,32.0,clean,automatic,SUV,2014.0
+144,http://vancouver.craigslist.ca//rch/ctd/5239880447.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,33.0,clean,automatic,SUV,2014.0
+145,http://vancouver.craigslist.ca//rch/ctd/5273698705.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,17988.0,compact,11.0,clean,automatic,SUV,2009.0
+146,http://vancouver.craigslist.ca//rch/ctd/5240912084.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,33.0,clean,automatic,SUV,2014.0
+147,http://vancouver.craigslist.ca//rch/ctd/5243583441.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,31.0,clean,automatic,SUV,2014.0
+148,http://vancouver.craigslist.ca//rch/ctd/5241134148.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,32.0,clean,automatic,SUV,2014.0
+149,http://vancouver.craigslist.ca//rch/ctd/5239389434.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,34.0,clean,automatic,SUV,2014.0
+150,http://vancouver.craigslist.ca//rch/ctd/5245820382.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,29.0,clean,automatic,SUV,2010.0
+151,http://vancouver.craigslist.ca//rch/ctd/5283563747.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,5.0,clean,automatic,,2015.0
+152,http://vancouver.craigslist.ca//rch/ctd/5242025823.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,32.0,clean,automatic,SUV,2014.0
+153,http://vancouver.craigslist.ca//van/ctd/5237740115.html,,toyota,,,,gas,ctd,RAV4,152620.0,,13800.0,,35.0,clean,automatic,,2007.0
+154,http://vancouver.craigslist.ca//van/ctd/5260173175.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,20.0,clean,automatic,,2014.0
+155,http://vancouver.craigslist.ca//bnc/ctd/5260176142.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,20.0,clean,automatic,,2014.0
+156,http://vancouver.craigslist.ca//rds/ctd/5260178686.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,20.0,clean,automatic,,2014.0
+157,http://vancouver.craigslist.ca//rch/ctd/5260181530.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,20.0,clean,automatic,,2014.0
+158,http://vancouver.craigslist.ca//pml/ctd/5256787157.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,22.0,clean,automatic,,2014.0
+159,http://vancouver.craigslist.ca//rch/ctd/5253501381.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,24.0,clean,automatic,,2014.0
+160,http://vancouver.craigslist.ca//rch/ctd/5239726414.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,33.0,clean,automatic,SUV,2014.0
+161,http://vancouver.craigslist.ca//van/ctd/5256775815.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,22.0,clean,automatic,,2014.0
+162,http://vancouver.craigslist.ca//bnc/ctd/5256779123.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,22.0,clean,automatic,,2014.0
+163,http://vancouver.craigslist.ca//rds/ctd/5256806839.html,,toyota,like new,,,gas,ctd,rav4,9958.0,,25818.0,,22.0,clean,automatic,,2014.0
+164,http://vancouver.craigslist.ca//rch/ctd/5282431672.html,,Toyota,excellent,,,gas,ctd,RAV4,152146.0,silver,13800.0,,6.0,clean,automatic,sedan,2007.0
+165,http://vancouver.craigslist.ca//rch/ctd/5282421833.html,,Toyota,excellent,,,gas,ctd,RAV4,66921.0,silver,17995.0,,6.0,clean,automatic,sedan,2009.0
+166,http://vancouver.craigslist.ca//rch/ctd/5282392023.html,,Toyota,excellent,,,gas,ctd,RAV4,89450.0,blue,18995.0,,6.0,clean,automatic,sedan,2010.0
+167,http://vancouver.craigslist.ca//rch/ctd/5282381580.html,,Toyota,excellent,,,gas,ctd,RAV4,44050.0,,22865.0,,6.0,clean,automatic,sedan,2012.0
+168,http://vancouver.craigslist.ca//rch/ctd/5282360074.html,,Toyota,excellent,,fwd,gas,ctd,RAV4,9958.0,,25818.0,,6.0,clean,automatic,sedan,2014.0
+169,http://vancouver.craigslist.ca//rch/ctd/5265311619.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,18888.0,compact,17.0,clean,automatic,SUV,2010.0
+170,http://vancouver.craigslist.ca//rch/ctd/5244089379.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+171,http://vancouver.craigslist.ca//rch/ctd/5280484676.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,7.0,clean,automatic,,2015.0
+172,http://vancouver.craigslist.ca//rch/ctd/5244177868.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+173,http://vancouver.craigslist.ca//pml/ctd/5253848762.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,17710.0,silver,25860.0,compact,24.0,clean,automatic,SUV,2015.0
+174,http://vancouver.craigslist.ca//rch/ctd/5244407743.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+175,http://vancouver.craigslist.ca//rch/ctd/5279469849.html,,toyota,,,,gas,ctd,rav4,9856.0,,25818.0,,8.0,clean,automatic,,2014.0
+176,http://vancouver.craigslist.ca//van/ctd/5246984536.html,,Toyota,like new,6 cylinders,4wd,gas,ctd,Rav4,72000.0,grey,,full-size,29.0,clean,automatic,SUV,2010.0
+177,http://vancouver.craigslist.ca//rds/ctd/5233964217.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,37.0,clean,automatic,,2011.0
+178,http://vancouver.craigslist.ca//van/ctd/5277961677.html,,Toyota,excellent,,,gas,ctd,RAV4,66921.0,silver,,,8.0,clean,automatic,,2009.0
+179,http://vancouver.craigslist.ca//rch/ctd/5277151536.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,9.0,clean,automatic,,2015.0
+180,http://vancouver.craigslist.ca//van/ctd/5275086887.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,10.0,clean,automatic,,2012.0
+181,http://vancouver.craigslist.ca//rch/ctd/5232505480.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,,mid-size,38.0,clean,automatic,SUV,2007.0
+182,http://vancouver.craigslist.ca//van/ctd/5274589487.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,11.0,clean,automatic,,2012.0
+183,http://vancouver.craigslist.ca//van/ctd/5274107453.html,,Toyota,excellent,,,gas,ctd,RAV4,89450.0,blue,,,11.0,clean,automatic,,2010.0
+184,http://vancouver.craigslist.ca//rch/ctd/5239146175.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,,mid-size,34.0,clean,automatic,SUV,2007.0
+185,http://vancouver.craigslist.ca//rch/ctd/5231473811.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,,mid-size,39.0,clean,automatic,SUV,2007.0
+186,http://vancouver.craigslist.ca//rch/ctd/5245629179.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,29.0,clean,automatic,SUV,2010.0
+187,http://vancouver.craigslist.ca//rds/ctd/5266302022.html,,TOYOTA,,,,gas,ctd,RAV4,,green,2950.0,,16.0,clean,automatic,,2004.0
+188,http://vancouver.craigslist.ca//rch/ctd/5245635748.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,29.0,clean,automatic,SUV,2014.0
+189,http://vancouver.craigslist.ca//rch/ctd/5263633627.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,18.0,clean,automatic,SUV,2010.0
+190,http://vancouver.craigslist.ca//rch/ctd/5231943435.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,13788.0,mid-size,38.0,clean,automatic,SUV,2007.0
+191,http://vancouver.craigslist.ca//rch/ctd/5265415998.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,16.0,clean,automatic,SUV,2010.0
+192,http://vancouver.craigslist.ca//rch/ctd/5243576961.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,31.0,clean,automatic,SUV,2010.0
+193,http://vancouver.craigslist.ca//rch/ctd/5272712670.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,12.0,clean,automatic,,2015.0
+194,http://vancouver.craigslist.ca//pml/ctd/5226030004.html,,Toyota,excellent,,,gas,ctd,RAV4,,red,,,42.0,clean,automatic,,2014.0
+195,http://vancouver.craigslist.ca//van/ctd/5270251067.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,13.0,clean,automatic,,2012.0
+196,http://vancouver.craigslist.ca//rch/ctd/5245409659.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+197,http://vancouver.craigslist.ca//rch/ctd/5239391928.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,34.0,clean,automatic,SUV,2014.0
+198,http://vancouver.craigslist.ca//van/ctd/5269806508.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,14.0,clean,automatic,,2012.0
+199,http://vancouver.craigslist.ca//van/ctd/5269655292.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,14.0,clean,automatic,,2007.0
+200,http://vancouver.craigslist.ca//rch/ctd/5269580658.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,14.0,clean,automatic,,2015.0
+201,http://vancouver.craigslist.ca//van/ctd/5261497566.html,,TOYOTA,,,,gas,ctd,RAV4,,,25980.0,,19.0,clean,automatic,,2013.0
+202,http://vancouver.craigslist.ca//bnc/ctd/5277507106.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,86000.0,,26800.0,,9.0,clean,automatic,,2012.0
+203,http://vancouver.craigslist.ca//van/ctd/5261895358.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,19.0,clean,automatic,,2007.0
+204,http://vancouver.craigslist.ca//van/ctd/5223015717.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,RAV4,150000.0,silver,13800.0,,44.0,clean,automatic,SUV,2007.0
+205,http://vancouver.craigslist.ca//rch/ctd/5266659571.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,16.0,clean,automatic,,2015.0
+206,http://vancouver.craigslist.ca//van/ctd/5266273935.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,16.0,clean,automatic,,2012.0
+207,http://vancouver.craigslist.ca//pml/ctd/5223710832.html,,Toyota,excellent,,,gas,ctd,RAV4,,red,,,44.0,clean,automatic,,2014.0
+208,http://vancouver.craigslist.ca//rch/ctd/5255624146.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,Rav4,152146.0,silver,13800.0,mid-size,23.0,clean,automatic,SUV,2007.0
+209,http://vancouver.craigslist.ca//rch/ctd/5255628447.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,152146.0,silver,13800.0,mid-size,23.0,clean,automatic,SUV,2007.0
+210,http://vancouver.craigslist.ca//rch/ctd/5255632075.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,152146.0,silver,13800.0,mid-size,23.0,clean,automatic,SUV,2007.0
+211,http://vancouver.craigslist.ca//rch/ctd/5255643331.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,152146.0,silver,13800.0,mid-size,23.0,clean,automatic,SUV,2007.0
+212,http://vancouver.craigslist.ca//rch/ctd/5255663732.html,,toyota,excellent,6 cylinders,4wd,gas,ctd,rav4,152146.0,silver,13800.0,mid-size,23.0,clean,automatic,SUV,2007.0
+213,http://vancouver.craigslist.ca//rch/ctd/5255323258.html,,toyota,excellent,4 cylinders,,gas,ctd,rav4,9958.0,grey,25818.0,mid-size,23.0,clean,automatic,SUV,2014.0
+214,http://vancouver.craigslist.ca//rch/ctd/5255332377.html,,toyota,excellent,4 cylinders,,gas,ctd,rav4,9958.0,grey,25818.0,mid-size,23.0,clean,automatic,SUV,2014.0
+215,http://vancouver.craigslist.ca//rch/ctd/5255338491.html,,toyota,excellent,4 cylinders,,gas,ctd,rav4,9958.0,grey,25818.0,mid-size,23.0,clean,automatic,SUV,2014.0
+216,http://vancouver.craigslist.ca//rch/ctd/5255344043.html,,toyota,excellent,4 cylinders,,gas,ctd,rav4,9958.0,grey,25818.0,mid-size,23.0,clean,automatic,SUV,2014.0
+217,http://vancouver.craigslist.ca//van/ctd/5266075554.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,16.0,clean,automatic,,2007.0
+218,http://vancouver.craigslist.ca//rch/ctd/5222072339.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,45.0,clean,automatic,SUV,2009.0
+219,http://vancouver.craigslist.ca//rch/ctd/5220640180.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,46.0,clean,automatic,SUV,2009.0
+220,http://vancouver.craigslist.ca//rch/ctd/5225636069.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,43.0,clean,automatic,SUV,2009.0
+221,http://vancouver.craigslist.ca//rch/ctd/5221164190.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,45.0,clean,automatic,SUV,2009.0
+222,http://vancouver.craigslist.ca//rch/ctd/5220416307.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,46.0,clean,automatic,SUV,2009.0
+223,http://vancouver.craigslist.ca//rch/ctd/5232229985.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,13788.0,mid-size,38.0,clean,automatic,SUV,2007.0
+224,http://vancouver.craigslist.ca//rch/ctd/5221933436.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,45.0,clean,automatic,SUV,2009.0
+225,http://vancouver.craigslist.ca//rch/ctd/5219908322.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,,compact,46.0,clean,automatic,SUV,2009.0
+226,http://vancouver.craigslist.ca//rch/ctd/5220164812.html,S15670A,TOYOTA,excellent,4 cylinders,4wd,gas,ctd,RAV4,66868.0,silver,17988.0,compact,46.0,clean,automatic,SUV,2009.0
+227,http://vancouver.craigslist.ca//rch/ctd/5244891109.html,S16077A,TOYOTA,like new,4 cylinders,4wd,gas,ctd,RAV4,89228.0,blue,,compact,30.0,clean,automatic,SUV,2010.0
+228,http://vancouver.craigslist.ca//rch/ctd/5231480199.html,Call or text me t,Toyota,excellent,4 cylinders,4wd,gas,ctd,RAV4,152138.0,silver,13788.0,mid-size,39.0,clean,automatic,SUV,2007.0
+229,http://vancouver.craigslist.ca//rch/ctd/5239379312.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,34.0,clean,automatic,SUV,2014.0
+230,http://vancouver.craigslist.ca//rch/ctd/5239710640.html,BB3987A,TOYOTA,like new,4 cylinders,,gas,ctd,RAV4,9828.0,grey,,compact,33.0,clean,automatic,SUV,2014.0
+231,http://vancouver.craigslist.ca//van/ctd/5220080925.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,RAV4,,silver,13800.0,,46.0,clean,automatic,SUV,2007.0
+232,http://vancouver.craigslist.ca//rds/ctd/5217256594.html,,toyota,excellent,,4wd,gas,ctd,rav4,12800.0,silver,,,48.0,clean,automatic,pickup,2015.0
+233,http://vancouver.craigslist.ca//rds/ctd/5216702117.html,,toyota,like new,4 cylinders,,gas,ctd,rav4,,white,,compact,48.0,clean,automatic,SUV,2013.0
+234,http://vancouver.craigslist.ca//rch/ctd/5260574834.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,20.0,clean,automatic,,2015.0
+235,http://vancouver.craigslist.ca//van/ctd/5216750494.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,93000.0,brown,17988.0,,48.0,clean,automatic,SUV,2009.0
+236,http://vancouver.craigslist.ca//van/ctd/5245354574.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,30.0,clean,automatic,,2007.0
+237,http://vancouver.craigslist.ca//van/ctd/5245434916.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,30.0,clean,automatic,,2012.0
+238,http://vancouver.craigslist.ca//van/ctd/5220090325.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,RAV4,,silver,13800.0,,46.0,clean,automatic,SUV,2007.0
+239,http://vancouver.craigslist.ca//rch/ctd/5257481352.html,,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,28000.0,white,19700.0,full-size,22.0,clean,automatic,SUV,2007.0
+240,http://vancouver.craigslist.ca//van/ctd/5257396207.html,,TOYOTA,,,,gas,ctd,RAV4,59764.0,,15888.0,,22.0,clean,automatic,,2008.0
+241,http://vancouver.craigslist.ca//rch/ctd/5256846599.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,22.0,clean,automatic,,2015.0
+242,http://vancouver.craigslist.ca//van/ctd/5255963600.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,23.0,clean,automatic,,2007.0
+243,http://vancouver.craigslist.ca//bnc/ctd/5209157292.html,,toyota,excellent,4 cylinders,4wd,gas,ctd,rav4,57100.0,blue,25995.0,mid-size,53.0,clean,automatic,SUV,2013.0
+244,http://vancouver.craigslist.ca//bnc/ctd/5210979268.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,Rav4,78000.0,white,20988.0,compact,52.0,clean,automatic,SUV,2011.0
+245,http://vancouver.craigslist.ca//rch/ctd/5254158835.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,24.0,clean,automatic,,2015.0
+246,http://vancouver.craigslist.ca//rch/ctd/5251040319.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,26.0,clean,automatic,,2015.0
+247,http://vancouver.craigslist.ca//bnc/ctd/5226857186.html,,toyota,,,,gas,ctd,rav4,133000.0,,14500.0,,42.0,clean,automatic,,2008.0
+248,http://vancouver.craigslist.ca//van/ctd/5210973356.html,,Toyota,excellent,6 cylinders,4wd,gas,ctd,Rav4,78000.0,white,20988.0,compact,52.0,clean,automatic,SUV,2011.0
+249,http://vancouver.craigslist.ca//van/ctd/5248210942.html,,TOYOTA,,,,gas,ctd,RAV4,59764.0,,15888.0,,28.0,clean,automatic,,2008.0
+250,http://vancouver.craigslist.ca//rch/ctd/5247951442.html,,Toyota,,,,gas,ctd,Rav4,,,24995.0,,28.0,clean,automatic,,2015.0
+251,http://vancouver.craigslist.ca//van/ctd/5204980961.html,2T3BF33V99W014956,toyota,good,4 cylinders,4wd,gas,ctd,rav4,92761.0,,16988.0,mid-size,56.0,clean,automatic,SUV,2009.0
+252,http://vancouver.craigslist.ca//van/ctd/5243888349.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,30.0,clean,automatic,,2012.0
+253,http://vancouver.craigslist.ca//van/ctd/5243848567.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,31.0,clean,automatic,,2007.0
+254,http://vancouver.craigslist.ca//rch/ctd/5243122176.html,,Toyota,,,,gas,ctd,Rav4,,,15995.0,,31.0,clean,automatic,,2008.0
+255,http://vancouver.craigslist.ca//rch/ctd/5243118029.html,,Toyota,,,,gas,ctd,Rav4,,,25995.0,,31.0,clean,automatic,,2015.0
+256,http://vancouver.craigslist.ca//van/ctd/5242844643.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,31.0,clean,automatic,,2007.0
+257,http://vancouver.craigslist.ca//rds/ctd/5204765399.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,56.0,clean,automatic,,2011.0
+258,http://vancouver.craigslist.ca//van/ctd/5242103706.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,32.0,clean,automatic,,2012.0
+259,http://vancouver.craigslist.ca//van/ctd/5241173001.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,32.0,clean,automatic,,2007.0
+260,http://vancouver.craigslist.ca//van/ctd/5241153521.html,,Toyota,like new,6 cylinders,4wd,gas,ctd,Rav4,72000.0,grey,,full-size,32.0,clean,automatic,SUV,2010.0
+261,http://vancouver.craigslist.ca//van/ctd/5241124231.html,,Toyota,like new,6 cylinders,4wd,gas,ctd,Rav4,72000.0,grey,,full-size,32.0,clean,automatic,SUV,2010.0
+262,http://vancouver.craigslist.ca//van/ctd/5241124342.html,,Toyota,like new,6 cylinders,4wd,gas,ctd,Rav4,72000.0,grey,,full-size,32.0,clean,automatic,SUV,2010.0
+263,http://vancouver.craigslist.ca//van/ctd/5241124466.html,,Toyota,like new,6 cylinders,4wd,gas,ctd,Rav4,72000.0,grey,,full-size,32.0,clean,automatic,SUV,2010.0
+264,http://vancouver.craigslist.ca//van/ctd/5240437188.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,33.0,clean,automatic,,2012.0
+265,http://vancouver.craigslist.ca//rch/ctd/5240300659.html,,Toyota,,,,gas,ctd,Rav4,,,15995.0,,33.0,clean,automatic,,2008.0
+266,http://vancouver.craigslist.ca//rch/ctd/5240296899.html,,Toyota,,,,gas,ctd,Rav4,,,25995.0,,33.0,clean,automatic,,2015.0
+267,http://vancouver.craigslist.ca//van/ctd/5240175302.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,33.0,clean,automatic,,2007.0
+268,http://vancouver.craigslist.ca//van/ctd/5239505487.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,34.0,clean,automatic,,2012.0
+269,http://vancouver.craigslist.ca//van/ctd/5239417630.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,34.0,clean,automatic,,2007.0
+270,http://vancouver.craigslist.ca//rds/ctd/5195439227.html,,Toyota,,,,gas,ctd,Rav4,,,16680.0,,62.0,clean,automatic,,2011.0
+271,http://vancouver.craigslist.ca//van/ctd/5238053891.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,34.0,clean,automatic,,2012.0
+272,http://vancouver.craigslist.ca//van/ctd/5238013808.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,34.0,clean,automatic,,2007.0
+273,http://vancouver.craigslist.ca//van/ctd/5237675135.html,,TOYOTA,,,,gas,ctd,RAV4,59764.0,,17875.0,,35.0,clean,automatic,,2008.0
+274,http://vancouver.craigslist.ca//rch/ctd/5237450120.html,,Toyota,,,,gas,ctd,Rav4,,,15995.0,,35.0,clean,automatic,,2008.0
+275,http://vancouver.craigslist.ca//rch/ctd/5237278564.html,,Toyota,,,,gas,ctd,Rav4,,,25995.0,,35.0,clean,automatic,,2015.0
+276,http://vancouver.craigslist.ca//rds/ctd/5236554381.html,2T3BF32VX9W001196,TOYOTA,,,,gas,ctd,RAV4,76100.0,,19223.0,,35.0,clean,automatic,,2009.0
+277,http://vancouver.craigslist.ca//van/ctd/5236495121.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,21865.0,,35.0,clean,automatic,,2012.0
+278,http://vancouver.craigslist.ca//van/ctd/5236436563.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,36.0,clean,automatic,,2007.0
+279,http://vancouver.craigslist.ca//rch/ctd/5236332915.html,2T3BF33V99WXXXXXX,toyota,good,4 cylinders,,gas,ctd,rav4,,,16988.0,,36.0,clean,automatic,SUV,2009.0
+280,http://vancouver.craigslist.ca//van/ctd/5235024829.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,22865.0,,36.0,clean,automatic,,2012.0
+281,http://vancouver.craigslist.ca//van/ctd/5234958858.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,36.0,clean,automatic,,2007.0
+282,http://vancouver.craigslist.ca//van/ctd/5193354788.html,,toyota,like new,4 cylinders,4wd,gas,ctd,rav4,44135.0,red,24988.0,mid-size,63.0,clean,automatic,SUV,2014.0
+283,http://vancouver.craigslist.ca//van/ctd/5232950244.html,,TOYOTA,,,,gas,ctd,RAV4,59764.0,,17875.0,,38.0,clean,automatic,,2008.0
+284,http://vancouver.craigslist.ca//rch/ctd/5232529589.html,,Toyota,,,,gas,ctd,Rav4,,,15995.0,,38.0,clean,automatic,,2008.0
+285,http://vancouver.craigslist.ca//rch/ctd/5232524394.html,,Toyota,,,,gas,ctd,Rav4,,,25995.0,,38.0,clean,automatic,,2015.0
+286,http://vancouver.craigslist.ca//van/ctd/5223711999.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,22865.0,,44.0,clean,automatic,,2012.0
+287,http://vancouver.craigslist.ca//rds/ctd/5229014082.html,2T3BF32VX9W001196,TOYOTA,,,,gas,ctd,RAV4,76100.0,,19223.0,,40.0,clean,automatic,,2009.0
+288,http://vancouver.craigslist.ca//rch/ctd/5228234378.html,,Toyota,,,,gas,ctd,Rav4,,,15995.0,,41.0,clean,automatic,,2008.0
+289,http://vancouver.craigslist.ca//rch/ctd/5228230788.html,,Toyota,,,,gas,ctd,Rav4,,,25995.0,,41.0,clean,automatic,,2015.0
+290,http://vancouver.craigslist.ca//van/ctd/5228166409.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,44016.0,,22865.0,,41.0,clean,automatic,,2012.0
+291,http://vancouver.craigslist.ca//van/ctd/5227817024.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,41.0,clean,automatic,,2007.0
+292,http://vancouver.craigslist.ca//van/ctd/5226887593.html,,TOYOTA,,,,gas,ctd,RAV4,23317.0,,23875.0,,42.0,clean,automatic,,2012.0
+293,http://vancouver.craigslist.ca//van/ctd/5222309230.html,,Toyota,excellent,,4wd,gas,ctd,RAV4,152648.0,,13800.0,,45.0,clean,automatic,,2007.0
+294,http://vancouver.craigslist.ca//rds/ctd/5198868481.html,2T3BF32VX9W001196,TOYOTA,,,,gas,ctd,RAV4,76100.0,,19223.0,,59.0,clean,automatic,,2009.0
+295,http://vancouver.craigslist.ca//rds/ctd/5177687752.html,JTEH020V546001612,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,232000.0,silver,6900.0,mid-size,73.0,clean,manual,SUV,2004.0
+296,http://vancouver.craigslist.ca//rds/ctd/5177700159.html,JTEH020V546001612,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,232000.0,silver,6900.0,mid-size,73.0,clean,manual,SUV,2004.0
+297,http://vancouver.craigslist.ca//rds/ctd/5177714535.html,JTEH020V546001612,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,232000.0,grey,6900.0,mid-size,73.0,clean,manual,SUV,2004.0
+298,http://vancouver.craigslist.ca//rds/ctd/5177729179.html,JTEH020V546001612,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,232000.0,silver,6900.0,mid-size,73.0,clean,manual,SUV,2004.0
+299,http://vancouver.craigslist.ca//van/ctd/5223678811.html,,TOYOTA,,,,gas,ctd,RAV4,59764.0,,17875.0,,44.0,clean,automatic,,2008.0
+300,http://vancouver.craigslist.ca//van/ctd/5217610800.html,,toyota,,,,gas,ctd,rav4,92761.0,,17988.0,,48.0,clean,automatic,,2009.0
+301,http://vancouver.craigslist.ca//van/ctd/5175866405.html,2T3BF33V99W014956,Toyota,like new,4 cylinders,4wd,gas,ctd,Rav4,92761.0,yellow,,compact,74.0,clean,automatic,SUV,2009.0
