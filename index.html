@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+
+  <style>
+    h2{color: blue;position: fixed; top: 20px; left: 400px; }
+    path {fill: none; stroke: black; stroke-width: 2px;}
+    .axis {font-family: arial; font-size: 1em; }
+    .tick  {fill: black; stroke: black; font-family: arial; font-size: 1em; }
+    circle {opacity: 0.4; stroke: none; }
+    rect   {opacity: 0.4; stroke: none; }
+    .tooltip {position: absolute; width: 200px;
+            height: 28px; pointer-events: none; }
+    .label{font-family: arial; font-size: 1.5em; }
+    .legend{font-family: arial; font-size: 1em; }
+    div.years_buttons {position: fixed; top: 50px; left: 1000px; }
+    div.years_buttons div {background-color: rgb(251, 201, 127);
+                           padding: 2px; margin: 4px;}
+  </style>
+    <script type="text/javascript">
+      function draw(data) {
+            "use strict";
+        var margin = 100,
+            width = 1000 - margin,
+            height = 600 - margin;
+         // Nest the data acording to years
+        var nested = d3.nest()
+            .key(function(d) {return d['year'];})
+            .entries(data);
+
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width + 2*margin)
+            .attr("height", height + margin)
+            .append('g')
+            .attr('class', 'chart');
+        d3.select('body').append('h2');
+
+         // function that find extent for a feature
+        function mak_extent(data,var_1){
+            var X_extent = d3.extent(data, function(d) {return d[var_1]; });
+            return X_extent;
+          };
+
+          //Title
+         function mak_title(data){
+            d3.select('h2').data(data)
+             .text(function(d) { return d['brand']
+             .toUpperCase()+' '+d['model']
+             .toUpperCase() +  ' - Year: '+'-' +mak_extent(data,'year')[1]; });
+          };
+
+          function mak_title1(data){
+            d3.select('h2').data(data)
+              .text(function(d) { return d['brand']
+              .toUpperCase()+' '+d['model']
+              .toUpperCase()+  ' - Years: '+  'All' });
+           }
+
+         // create x-axis
+        var X_scale = d3.scale.linear().range([margin+20, width])
+            .domain(mak_extent(data,'price'));
+         // text label for the x axis
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("x", width/2 + margin )
+            .attr("y",  height + margin/2 )
+            .style("text-anchor", "middle")
+            .text('Price [$]');
+          //ticks for x-axis
+        d3.select('svg').append('g').attr('class','x axis')
+            .attr('transform', 'translate(0,' +height +')')
+            .call(d3.svg.axis()
+            .scale(X_scale));
+
+          // create y-axis
+        var Y_scale = d3.scale.linear().range([height-20, margin])
+            .domain(mak_extent(data,'odometer'));
+         // text label for the y axis
+        svg.append("text")     // text label for the y axis
+            .attr("class", "y label")
+            .attr("transform", "rotate(-90)")
+            .attr("x", -height/2)
+            .attr("y", 0.2*margin)
+            .style("text-anchor", "middle")
+            .text('Odometer [Km]');
+          //ticks for y-axis
+        d3.select('svg').append('g').attr('class','y axis')
+            .attr('transform', 'translate(' +margin +',0)')
+            .call( d3.svg.axis()
+            .scale(Y_scale)
+            .orient('left'));
+
+          // Range for time since publish Radius of circle
+        var R_scale = d3.scale.linear().range([4, 12])
+            .domain([mak_extent(data, 'time_Ad')[1],
+            mak_extent(data, 'time_Ad')[0]]);
+
+          // Range for Model year color of circle
+        var C_scale=d3.scale.linear()
+            .domain(['1999',    '2002',    '2005',    '2008',    '2011',    '2014',    '2015'])
+            .range (['#1f77b4', '#2ca02c', '#d62728', '#ff7f0e', '#9467bd', '#dbdb8d', '#8c564b']);
+
+          // Add tooltip area to the webpage
+        var tooltip = d3.select("body")
+            .append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+          // Add  legend
+        var legend = svg.selectAll(".legend").data(C_scale.domain())
+            .enter().append("g").attr("class", "legend");
+
+             // colored rectangles
+        legend.append('rect')
+            .attr("x", width - 18).attr("y", 100)
+            .attr("width", 18).attr("height", 18)
+            .style("fill", C_scale)
+            .attr("transform", function(d, i) {
+            return "translate(0," + i*20 + ")"; });
+
+              // legend text
+        legend.append("text")
+            .attr("x", width - 24).attr("y", 107).attr("dy", ".35em")
+            .style("text-anchor", "end")
+            .text(function(d) { return [d];})
+            .attr("transform", function(d, i) {
+            return "translate(0," + i*20 + ")"; });
+
+              // legend titles
+        legend.append("text").attr("x",  width + 4).attr("y", 80)
+            .style("text-anchor", "end")
+            .text(['Model Year']);
+        legend.append("text").attr("x",  width-100 ).attr("y", 80)
+            .style("text-anchor", "end")
+            .text(['Days since puplished']);
+        legend.append("text").attr("x",  width + 100).attr("y", 30)
+            .style("text-anchor", "middle").attr("Height", 1)
+            .html('Choose Year');
+
+            // draw legend circle size
+        var legend2 = svg.selectAll(".legend2").data(R_scale.domain())
+            .enter().append("g").attr("class", "legend");
+
+            // draw legend text
+        legend2.append("text").attr("x", width - 134).attr("y", 100)
+            .attr("dy", ".35em").style("text-anchor", "end")
+            .text(function(d) { return [d];})
+            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+            //legend circle size
+        function leg_circ(){
+            legend2.append('circle').attr("cx", width -118).attr("cy", 100).attr("r", R_scale)
+            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+          };
+               // Scatter plot function
+        function plt_sct(data){
+            svg.append('g')
+            .attr("class",'bubble')
+            .selectAll('circle')
+            .data(data,data['year'])
+            .enter()
+            .append('circle')
+            .attr('cx',function(d){return X_scale(d['price'])})
+            .attr('cy',function(d){return Y_scale(d['odometer'])})
+            .attr('r',function(d){return R_scale(d['time_Ad'])})
+            .attr("fill", function(d) {return C_scale(d['year']);})
+            .on("click", mouseClick)
+            .on("mouseover", function(d) {tooltip.transition().duration(200)
+            .style("opacity", .9);
+            tooltip.html(['Price: '+d['price'] + "<br/>" +'Year :'
+            +d['year']+ "<br/>" + 'Cond: '+d['condition'] +
+            ' - '+d['title status']])
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");})
+            .on("mouseout", function(d) {tooltip.transition().duration(500)
+            .style("opacity", 0);});
+        function mouseClick(d) {
+            window.location.assign(d['URL'], '_blank');
+          };
+         };
+        //plot all data
+        function plot_data(data){
+            mak_title1(data)
+            leg_circ()
+            plt_sct(data)
+          };
+        plot_data(data)
+        //update plot
+        function update(year) {
+            if (year === 'All'){var filtered=nested }
+            else   {var filtered = nested.filter(function(d) {
+            if (d.key === year){ return d };
+          });};
+
+        var circles = svg.selectAll('circle')
+            .data(filtered[0]);
+
+            circles.exit().remove();
+
+        function plot_update(filtered){
+           mak_title(filtered[0].values)
+            leg_circ()
+            plt_sct(filtered[0].values);
+         };
+
+        if (year === 'All'){plot_data(data)}
+        else {plot_update(filtered)}
+      };
+         // Make buttons
+        var  years = ['1999','2000','2001','2002','2003','2004','2005','2006',
+                    '2007','2008','2009','2010','2011','2012','2013','2014','2015','All'];
+        var buttons = d3.select("body")
+            .append("div")
+            .attr("class", "years_buttons")
+            .selectAll("div")
+            .data(years)
+            .enter()
+            .append("div")
+            .text(function(d) {
+            return d;
+          });
+
+        buttons.on("click", function(d) {
+            d3.select(".years_buttons")
+            .selectAll("div")
+            .transition()
+            .duration(500)
+            .style("color", "black")
+            .style("background", "rgb(251, 201, 127)");
+
+        d3.select(this)
+            .transition()
+            .duration(500)
+            .style("background", "lightBlue")
+            .style("color", "white");
+        update(d);
+       });
+  }
+  /*
+    Use D3 (not dimple.js) to load the TSV file
+    and pass the contents of it to the draw function
+    */
+  d3.csv("Data_TOYOTA_RAV4.csv", function(d) {
+    d['odometer'] = +d['odometer'];
+    d['price'] = +d['price'];
+    d['time_Ad'] = +d['time_Ad'];
+    d['year'] = +d['year'];
+    return d;
+  },draw);
+  </script>
+</body>
+</html>
