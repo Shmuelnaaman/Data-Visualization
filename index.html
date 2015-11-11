@@ -6,7 +6,7 @@
   <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
 
   <style>
-    h2{color: blue;position: fixed; top: 20px; left: 400px; }
+    h2{color: blue;position: fixed; top: 20px; left: 250px; }
     path {fill: none; stroke: black; stroke-width: 2px;}
     .axis {font-family: arial; font-size: 1em; }
     .tick  {fill: black; stroke: black; font-family: arial; font-size: 1em; }
@@ -26,6 +26,7 @@
         var margin = 100,
             width = 1000 - margin,
             height = 600 - margin;
+
          // Nest the data acording to years
         var nested = d3.nest()
             .key(function(d) {return d['year'];})
@@ -48,16 +49,12 @@
           //Title
          function mak_title(data){
             d3.select('h2').data(data)
-             .text(function(d) { return d['brand']
-             .toUpperCase()+' '+d['model']
-             .toUpperCase() +  ' - Year: '+'-' +mak_extent(data,'year')[1]; });
+             .text('Car Price is Corelated with Model year and Milage');
           };
 
           function mak_title1(data){
             d3.select('h2').data(data)
-              .text(function(d) { return d['brand']
-              .toUpperCase()+' '+d['model']
-              .toUpperCase()+  ' - Years: '+  'All' });
+              .text('Car Price is Corelated with Model year and Milage')
            }
 
          // create x-axis
@@ -133,9 +130,11 @@
         legend.append("text").attr("x",  width + 4).attr("y", 80)
             .style("text-anchor", "end")
             .text(['Model Year']);
+
         legend.append("text").attr("x",  width-100 ).attr("y", 80)
             .style("text-anchor", "end")
             .text(['Days since puplished']);
+
         legend.append("text").attr("x",  width + 100).attr("y", 30)
             .style("text-anchor", "middle").attr("Height", 1)
             .html('Choose Year');
@@ -149,6 +148,7 @@
             .attr("dy", ".35em").style("text-anchor", "end")
             .text(function(d) { return [d];})
             .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
             //legend circle size
         function leg_circ(){
             legend2.append('circle').attr("cx", width -118).attr("cy", 100).attr("r", R_scale)
@@ -176,17 +176,21 @@
             .style("top", (d3.event.pageY - 28) + "px");})
             .on("mouseout", function(d) {tooltip.transition().duration(500)
             .style("opacity", 0);});
+
         function mouseClick(d) {
             window.location.assign(d['URL'], '_blank');
           };
          };
+
         //plot all data
         function plot_data(data){
             mak_title1(data)
             leg_circ()
             plt_sct(data)
           };
+
         plot_data(data)
+
         //update plot
         function update(year) {
             if (year === 'All'){var filtered=nested }
@@ -208,9 +212,11 @@
         if (year === 'All'){plot_data(data)}
         else {plot_update(filtered)}
       };
+
          // Make buttons
         var  years = ['1999','2000','2001','2002','2003','2004','2005','2006',
                     '2007','2008','2009','2010','2011','2012','2013','2014','2015','All'];
+
         var buttons = d3.select("body")
             .append("div")
             .attr("class", "years_buttons")
