@@ -1,420 +1,420 @@
-,URL,VIN,brand,condition,cylinders,drive,fuel,loc_prefixes,model,odometer,paint color,price,size,time_Ad,title status,transmission,type,year
-0,http://vancouver.craigslist.ca//bnc/cto/5296519378.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209000.0,green,3200.0,,6.0,clean,automatic,coupe,1999.0
-1,http://vancouver.craigslist.ca//van/cto/5298883982.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209500.0,green,3200.0,compact,5.0,clean,automatic,sedan,1999.0
-2,http://vancouver.craigslist.ca//van/cto/5297618931.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209500.0,green,3200.0,,5.0,clean,automatic,sedan,1999.0
-3,http://vancouver.craigslist.ca//van/cto/5295880076.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209000.0,,3200.0,,6.0,clean,automatic,sedan,1999.0
-4,http://vancouver.craigslist.ca//rds/cto/5305746841.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,3900.0,mid-size,0.0,clean,automatic,sedan,2002.0
-5,http://vancouver.craigslist.ca//rds/cto/5302096932.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,3900.0,mid-size,3.0,clean,automatic,sedan,2002.0
-6,http://vancouver.craigslist.ca//rds/cto/5290109467.html,,toyota,like new,4 cylinders,,gas,cto,corolla,56990.0,grey,11999.0,,10.0,clean,automatic,sedan,2012.0
-7,http://vancouver.craigslist.ca//rds/cto/5279411831.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,3900.0,mid-size,17.0,clean,automatic,other,2002.0
-9,http://vancouver.craigslist.ca//rds/cto/5306504570.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,corolla,162000.0,brown,3100.0,mid-size,0.0,rebuilt,automatic,sedan,2001.0
-11,http://vancouver.craigslist.ca//bnc/cto/5306478147.html,2T1BA01E3VCC20450,toyota,excellent,,,gas,cto,corolla,118000.0,purple,2000.0,,0.0,clean,automatic,sedan,2007.0
-13,http://vancouver.craigslist.ca//van/cto/5306118102.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,217300.0,red,1500.0,mid-size,0.0,clean,manual,sedan,2002.0
-14,http://vancouver.craigslist.ca//bnc/cto/5305804421.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,83000.0,blue,9999.0,compact,0.0,clean,automatic,wagon,2010.0
-15,http://vancouver.craigslist.ca//van/cto/5305716522.html,,toyota,like new,4 cylinders,,gas,cto,corolla,32300.0,,17900.0,,0.0,clean,automatic,,2014.0
-16,http://vancouver.craigslist.ca//rds/cto/5269165339.html,,toyota,like new,4 cylinders,,gas,cto,corolla,284200.0,brown,1500.0,,24.0,clean,automatic,,2000.0
-17,http://vancouver.craigslist.ca//rds/cto/5305146442.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,1.0,clean,automatic,,2003.0
-18,http://vancouver.craigslist.ca//rds/cto/5280250720.html,,TOYOTA,,,,gas,cto,COROLLA,36000.0,,11600.0,,17.0,rebuilt,automatic,,2012.0
-20,http://vancouver.craigslist.ca//rds/cto/5277889375.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,3900.0,mid-size,18.0,clean,automatic,wagon,2002.0
-21,http://vancouver.craigslist.ca//rds/cto/5294009370.html,,toyota,fair,4 cylinders,,gas,cto,corolla,181000.0,blue,1250.0,,8.0,rebuilt,automatic,,1999.0
-22,http://vancouver.craigslist.ca//rds/cto/5304714529.html,,toyota,,,,gas,cto,corolla,93000.0,,5900.0,,1.0,clean,automatic,,2006.0
-23,http://vancouver.craigslist.ca//van/cto/5304444568.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,150000.0,silver,1900.0,mid-size,1.0,rebuilt,manual,coupe,2003.0
-24,http://vancouver.craigslist.ca//van/cto/5296916449.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,53000.0,grey,13800.0,compact,6.0,clean,automatic,sedan,2013.0
-25,http://vancouver.craigslist.ca//rds/cto/5304181156.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,1.0,clean,automatic,,2003.0
-26,http://vancouver.craigslist.ca//bnc/cto/5278158770.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,95000.0,red,8750.0,compact,18.0,rebuilt,automatic,hatchback,2010.0
-27,http://vancouver.craigslist.ca//van/cto/5303952462.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,217300.0,red,1700.0,,1.0,clean,manual,sedan,2002.0
-29,http://vancouver.craigslist.ca//rds/cto/5303605622.html,,Toyota,good,,,gas,cto,Corolla,172000.0,silver,6250.0,,2.0,clean,automatic,sedan,2005.0
-30,http://vancouver.craigslist.ca//rds/cto/5303478829.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,corolla,124000.0,grey,8000.0,full-size,2.0,rebuilt,automatic,sedan,2009.0
-32,http://vancouver.craigslist.ca//bnc/cto/5303186190.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,193000.0,red,5975.0,compact,2.0,clean,automatic,sedan,2009.0
-33,http://vancouver.craigslist.ca//van/cto/5277989013.html,,Toyota,excellent,4 cylinders,,gas,cto,corolla,165000.0,grey,10500.0,,18.0,clean,automatic,sedan,2006.0
-34,http://vancouver.craigslist.ca//rds/cto/5279732671.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,17.0,clean,automatic,,2003.0
-36,http://vancouver.craigslist.ca//pml/cto/5302275767.html,,TOYOTA,good,4 cylinders,fwd,gas,cto,COROLLA,129000.0,silver,3380.0,full-size,2.0,clean,automatic,sedan,2001.0
-37,http://vancouver.craigslist.ca//rds/cto/5277447668.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,167000.0,blue,6500.0,,18.0,clean,automatic,,2003.0
-38,http://vancouver.craigslist.ca//van/cto/5302075767.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,158000.0,silver,3499.0,compact,3.0,clean,automatic,sedan,2002.0
-39,http://vancouver.craigslist.ca//rds/cto/5256032384.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,248000.0,brown,2400.0,mid-size,32.0,clean,manual,sedan,2001.0
-40,http://vancouver.craigslist.ca//rds/cto/5301362706.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,3.0,clean,automatic,,2003.0
-41,http://vancouver.craigslist.ca//rds/cto/5286936680.html,,TOYOTA,,,,gas,cto,COROLLA,141900.0,grey,9499.0,,12.0,clean,automatic,sedan,2010.0
-42,http://vancouver.craigslist.ca//bnc/cto/5300782936.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,149000.0,white,5600.0,full-size,3.0,clean,automatic,sedan,2005.0
-43,http://vancouver.craigslist.ca//pml/cto/5300695344.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,114000.0,white,4000.0,compact,3.0,rebuilt,automatic,sedan,2005.0
-44,http://vancouver.craigslist.ca//pml/cto/5275228879.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,113000.0,white,4000.0,compact,20.0,rebuilt,automatic,sedan,2005.0
-45,http://vancouver.craigslist.ca//rds/cto/5300675884.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,3.0,clean,automatic,,2003.0
-46,http://vancouver.craigslist.ca//rch/cto/5300556181.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,56000.0,grey,14500.0,,3.0,clean,automatic,,2013.0
-47,http://vancouver.craigslist.ca//van/cto/5282701311.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,80000.0,silver,9500.0,compact,15.0,clean,automatic,sedan,2010.0
-48,http://vancouver.craigslist.ca//rds/cto/5300115149.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,80000.0,white,3000.0,,4.0,clean,automatic,sedan,2000.0
-49,http://vancouver.craigslist.ca//rds/cto/5299755706.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,4.0,clean,automatic,,2003.0
-50,http://vancouver.craigslist.ca//van/cto/5299601308.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,165000.0,silver,3900.0,mid-size,4.0,clean,manual,sedan,2003.0
-51,http://vancouver.craigslist.ca//van/cto/5299601395.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,165000.0,silver,3900.0,mid-size,4.0,clean,manual,sedan,2003.0
-52,http://vancouver.craigslist.ca//van/cto/5287860188.html,,toyota,excellent,4 cylinders,,gas,cto,corolla,227000.0,,3400.0,,12.0,clean,manual,,2003.0
-54,http://vancouver.craigslist.ca//rds/cto/5295441147.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,7.0,clean,automatic,,2003.0
-56,http://vancouver.craigslist.ca//rds/cto/5271865465.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,4000.0,mid-size,22.0,clean,automatic,sedan,2002.0
-58,http://vancouver.craigslist.ca//rds/cto/5294441748.html,,Toyota,,,,gas,cto,Corolla,167000.0,,6500.0,,7.0,clean,automatic,,2003.0
-60,http://vancouver.craigslist.ca//van/cto/5294116806.html,2T1BR32E16C614305,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,141000.0,custom,6450.0,compact,8.0,clean,automatic,sedan,2006.0
-61,http://vancouver.craigslist.ca//van/cto/5294113306.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,141000.0,brown,6450.0,compact,8.0,clean,automatic,sedan,2006.0
-62,http://vancouver.craigslist.ca//rds/cto/5259225629.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,67882.0,black,12500.0,compact,30.0,clean,automatic,sedan,2010.0
-63,http://vancouver.craigslist.ca//rch/cto/5285508654.html,2T1BU4EE5AC320642,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,49472.0,silver,9800.0,compact,13.0,rebuilt,automatic,sedan,2010.0
-64,http://vancouver.craigslist.ca//van/cto/5250816147.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,207000.0,grey,2200.0,full-size,36.0,clean,automatic,sedan,2002.0
-65,http://vancouver.craigslist.ca//van/cto/5285291091.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,152000.0,silver,9500.0,full-size,13.0,clean,automatic,sedan,2009.0
-66,http://vancouver.craigslist.ca//van/cto/5290119741.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,208000.0,yellow,4500.0,compact,10.0,clean,automatic,hatchback,2004.0
-67,http://vancouver.craigslist.ca//rds/cto/5245217506.html,2T1BR32E94C832148,toyota,good,4 cylinders,fwd,gas,cto,corolla,134646.0,black,5500.0,full-size,39.0,rebuilt,manual,sedan,2004.0
-69,http://vancouver.craigslist.ca//van/cto/5285511582.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,39000.0,red,16750.0,full-size,13.0,clean,automatic,sedan,2013.0
-70,http://vancouver.craigslist.ca//rds/cto/5284949705.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,59000.0,grey,11000.0,mid-size,13.0,rebuilt,automatic,sedan,2011.0
-71,http://vancouver.craigslist.ca//rds/cto/5260922985.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,4500.0,mid-size,29.0,clean,automatic,sedan,2002.0
-72,http://vancouver.craigslist.ca//bnc/cto/5283733163.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,155000.0,silver,4700.0,,14.0,rebuilt,automatic,,2003.0
-73,http://vancouver.craigslist.ca//rch/cto/5283491843.html,,Toyota,good,4 cylinders,rwd,gas,cto,Corolla,204000.0,silver,2800.0,mid-size,15.0,clean,automatic,sedan,1999.0
-74,http://vancouver.craigslist.ca//rch/cto/5281997139.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,148650.0,white,8500.0,,16.0,clean,automatic,sedan,2009.0
-76,http://vancouver.craigslist.ca//rds/cto/5236219552.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,284200.0,brown,1500.0,mid-size,45.0,clean,automatic,sedan,2000.0
-78,http://vancouver.craigslist.ca//bnc/cto/5280447499.html,2T1BU4EE7AC469165,TOYOTA,good,4 cylinders,fwd,gas,cto,COROLLA,95922.0,grey,7999.0,,17.0,rebuilt,automatic,sedan,2011.0
-79,http://vancouver.craigslist.ca//pml/cto/5280307817.html,,toyota,fair,4 cylinders,rwd,gas,cto,corolla,12000.0,white,4200.0,mid-size,17.0,clean,manual,sedan,2006.0
-80,http://vancouver.craigslist.ca//rds/cto/5262370945.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.0,brown,4500.0,mid-size,28.0,clean,automatic,sedan,2002.0
-81,http://vancouver.craigslist.ca//rds/cto/5275667956.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,63978.0,silver,15999.0,,19.0,clean,automatic,sedan,2010.0
-82,http://vancouver.craigslist.ca//pml/cto/5274133336.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,111000.0,white,4000.0,compact,20.0,rebuilt,automatic,sedan,2005.0
-90,http://vancouver.craigslist.ca//rds/cto/5270240105.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,210000.0,grey,3800.0,full-size,23.0,rebuilt,automatic,other,2003.0
-91,http://vancouver.craigslist.ca//pml/cto/5264178986.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.0,white,4100.0,compact,27.0,rebuilt,automatic,sedan,2005.0
-92,http://vancouver.craigslist.ca//van/cto/5268331808.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,260000.0,silver,2300.0,compact,24.0,clean,automatic,sedan,2000.0
-94,http://vancouver.craigslist.ca//pml/cto/5262372675.html,,toyota,,,,gas,cto,corolla,109000.0,,5900.0,,28.0,rebuilt,automatic,,2005.0
-95,http://vancouver.craigslist.ca//rds/cto/5266783366.html,,Toyota,new,4 cylinders,fwd,gas,cto,Corolla,30000.0,white,19800.0,compact,25.0,clean,automatic,sedan,2014.0
-96,http://vancouver.craigslist.ca//pml/cto/5258203821.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,38000.0,grey,9550.0,full-size,31.0,clean,automatic,sedan,2005.0
-97,http://vancouver.craigslist.ca//van/cto/5266497408.html,,toyota,,,,gas,cto,corolla,135000.0,grey,6000.0,,25.0,clean,manual,,2004.0
-98,http://vancouver.craigslist.ca//van/cto/5266497946.html,,toyota,,,,gas,cto,corolla,137000.0,grey,5500.0,,25.0,clean,manual,,2004.0
-100,http://vancouver.craigslist.ca//rds/cto/5266231655.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,119200.0,red,7200.0,compact,26.0,clean,automatic,sedan,2007.0
-101,http://vancouver.craigslist.ca//van/cto/5224962203.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,45000.0,silver,9500.0,compact,53.0,clean,automatic,sedan,2009.0
-102,http://vancouver.craigslist.ca//pml/cto/5262008884.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.0,white,4000.0,compact,28.0,rebuilt,automatic,sedan,2005.0
-103,http://vancouver.craigslist.ca//van/cto/5261204667.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,177000.0,grey,3100.0,full-size,29.0,clean,automatic,sedan,1999.0
-104,http://vancouver.craigslist.ca//pml/cto/5219741692.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,220000.0,green,5300.0,compact,56.0,clean,automatic,sedan,2005.0
-105,http://vancouver.craigslist.ca//pml/cto/5258966309.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.0,white,4100.0,compact,30.0,rebuilt,automatic,sedan,2005.0
-107,http://vancouver.craigslist.ca//pml/cto/5256710503.html,,toyota,new,4 cylinders,fwd,gas,cto,corolla,101000.0,white,7900.0,mid-size,32.0,clean,automatic,,2006.0
-109,http://vancouver.craigslist.ca//van/cto/5254166763.html,,Toyota,good,4 cylinders,fwd,gas,cto,Corolla,157800.0,black,5000.0,,33.0,clean,manual,,2003.0
-110,http://vancouver.craigslist.ca//pml/cto/5237589479.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.0,white,4200.0,compact,44.0,rebuilt,automatic,sedan,2005.0
-111,http://vancouver.craigslist.ca//pml/cto/5239459951.html,,Toyota,excellent,,,gas,cto,Corolla,90000.0,,3000.0,,43.0,rebuilt,automatic,,2000.0
-113,http://vancouver.craigslist.ca//van/cto/5251950400.html,,Toyota,good,,,gas,cto,Corolla,250000.0,blue,2000.0,,35.0,clean,automatic,,2002.0
-114,http://vancouver.craigslist.ca//rds/cto/5251450418.html,,toyota,excellent,,,gas,cto,corolla,103000.0,white,6900.0,,35.0,rebuilt,automatic,sedan,2006.0
-115,http://vancouver.craigslist.ca//nvn/cto/5226795520.html,2T1BU40EX9C084492,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,99960.0,grey,8500.0,mid-size,51.0,clean,manual,sedan,2009.0
-117,http://vancouver.craigslist.ca//bnc/cto/5240835895.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,207000.0,grey,2200.0,full-size,42.0,clean,automatic,sedan,2002.0
-118,http://vancouver.craigslist.ca//van/cto/5241623160.html,,toyota,like new,4 cylinders,,gas,cto,corolla,55000.0,silver,13500.0,,41.0,clean,automatic,,2012.0
-121,http://vancouver.craigslist.ca//pml/cto/5202172859.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,210000.0,,4200.0,,67.0,clean,automatic,sedan,2003.0
-122,http://vancouver.craigslist.ca//pml/cto/5247879537.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,230410.0,silver,1850.0,,38.0,rebuilt,automatic,sedan,1999.0
-123,http://vancouver.craigslist.ca//bnc/cto/5210779979.html,,toyota,like new,4 cylinders,,gas,cto,corolla,44100.0,brown,9500.0,mid-size,61.0,clean,automatic,sedan,2005.0
-125,http://vancouver.craigslist.ca//rds/cto/5246872790.html,,Toyota,,4 cylinders,fwd,gas,cto,Corolla,36000.0,black,15500.0,sub-compact,38.0,clean,automatic,sedan,2013.0
-127,http://vancouver.craigslist.ca//rds/cto/5241777978.html,,Toyota,good,4 cylinders,fwd,gas,cto,Corolla,134938.0,blue,6000.0,mid-size,41.0,rebuilt,automatic,sedan,2006.0
-128,http://vancouver.craigslist.ca//van/cto/5241739089.html,,Toyota,good,,,gas,cto,Corolla,250000.0,blue,2500.0,,41.0,clean,automatic,,2002.0
-129,http://vancouver.craigslist.ca//bnc/cto/5237406515.html,,Toyota,good,4 cylinders,,gas,cto,Corolla,235000.0,silver,3500.0,,44.0,clean,automatic,,2003.0
-132,http://vancouver.craigslist.ca//van/cto/5230915346.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,35000.0,grey,10300.0,full-size,49.0,rebuilt,automatic,sedan,2011.0
-133,http://vancouver.craigslist.ca//rds/cto/5236165440.html,,toyota,like new,6 cylinders,rwd,gas,cto,corolla,70000.0,red,11000.0,full-size,45.0,clean,automatic,coupe,2012.0
-136,http://vancouver.craigslist.ca//bnc/ctd/5305635986.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,138715.0,green,3995.0,compact,0.0,clean,automatic,sedan,2001.0
-138,http://vancouver.craigslist.ca//rds/ctd/5302244058.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,205000.0,red,4500.0,compact,2.0,clean,automatic,sedan,2003.0
-140,http://vancouver.craigslist.ca//pml/ctd/5280576949.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,114906.0,silver,8800.0,compact,16.0,clean,automatic,sedan,2005.0
-141,http://vancouver.craigslist.ca//rds/ctd/5297802061.html,,toyota,,,,gas,ctd,corolla,229000.0,,5450.0,,5.0,clean,automatic,,2007.0
-142,http://vancouver.craigslist.ca//rch/ctd/5266673544.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,54000.0,silver,12800.0,,25.0,clean,automatic,sedan,2011.0
-144,http://vancouver.craigslist.ca//pml/ctd/5261961438.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,114906.0,silver,8800.0,compact,28.0,clean,automatic,sedan,2005.0
-146,http://vancouver.craigslist.ca//van/ctd/5276056016.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,76500.0,white,12500.0,compact,19.0,clean,automatic,sedan,2010.0
-147,http://vancouver.craigslist.ca//rch/ctd/5290401383.html,,toyota,new,,,gas,ctd,corolla,229000.0,,5450.0,,10.0,clean,automatic,,2007.0
-148,http://vancouver.craigslist.ca//rds/ctd/5288826583.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,205000.0,red,4500.0,compact,11.0,clean,automatic,sedan,2003.0
-149,http://vancouver.craigslist.ca//rds/ctd/5283259142.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,87200.0,silver,8900.0,,15.0,clean,automatic,sedan,2007.0
-150,http://vancouver.craigslist.ca//pml/ctd/5269528878.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,114906.0,silver,8800.0,compact,24.0,clean,automatic,sedan,2005.0
-151,http://vancouver.craigslist.ca//bnc/ctd/5290476177.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,138715.0,green,3995.0,compact,10.0,clean,automatic,sedan,2001.0
-152,http://vancouver.craigslist.ca//van/ctd/5257140684.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,114906.0,silver,8800.0,compact,31.0,clean,automatic,sedan,2005.0
-153,http://vancouver.craigslist.ca//bnc/ctd/5302437351.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.0,custom,10995.0,,2.0,clean,automatic,other,2009.0
-154,http://vancouver.craigslist.ca//bnc/ctd/5296333343.html,,Toyota,Used,,fwd,other,ctd,Corolla,46144.0,custom,12995.0,,6.0,clean,automatic,other,2012.0
-155,http://vancouver.craigslist.ca//bnc/ctd/5266399370.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,40000.0,silver,12900.0,mid-size,25.0,clean,automatic,sedan,2010.0
-156,http://vancouver.craigslist.ca//bnc/ctd/5268206839.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.0,custom,10995.0,,24.0,clean,automatic,other,2009.0
-157,http://vancouver.craigslist.ca//bnc/ctd/5297765862.html,,Toyota,Used,,fwd,other,ctd,Corolla,46144.0,custom,12995.0,,5.0,clean,automatic,other,2012.0
-158,http://vancouver.craigslist.ca//bnc/ctd/5265692785.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.0,custom,10995.0,,26.0,clean,automatic,other,2009.0
-160,http://vancouver.craigslist.ca//pml/ctd/5304121215.html,2T1BU40E99C170280,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,114000.0,grey,10888.0,,1.0,clean,manual,sedan,2009.0
-161,http://vancouver.craigslist.ca//pml/ctd/5304060152.html,2T1BU40E99C170280,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,114000.0,grey,10888.0,,1.0,clean,manual,sedan,2009.0
-162,http://vancouver.craigslist.ca//rds/ctd/5288028852.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,117764.0,,6400.0,,12.0,clean,automatic,sedan,2005.0
-163,http://vancouver.craigslist.ca//bnc/ctd/5255094932.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.0,custom,10995.0,,33.0,clean,automatic,other,2009.0
-164,http://vancouver.craigslist.ca//van/ctd/5250587016.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,23000.0,,16980.0,,36.0,clean,automatic,,2014.0
-165,http://vancouver.craigslist.ca//nvn/ctd/5256108588.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,86165.0,black,12995.0,,32.0,clean,automatic,,2010.0
-174,http://vancouver.craigslist.ca//bnc/ctd/5300208659.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,94000.0,grey,7500.0,mid-size,4.0,rebuilt,manual,sedan,2010.0
-175,http://vancouver.craigslist.ca//pml/ctd/5288279975.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,11.0,clean,automatic,hatchback,2007.0
-176,http://vancouver.craigslist.ca//rds/ctd/5283430800.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,135346.0,grey,8995.0,,15.0,clean,automatic,hatchback,2007.0
-177,http://vancouver.craigslist.ca//pml/ctd/5288294716.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,11.0,clean,automatic,hatchback,2007.0
-178,http://vancouver.craigslist.ca//rds/ctd/5285164477.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,135346.0,grey,8995.0,,13.0,clean,automatic,hatchback,2007.0
-179,http://vancouver.craigslist.ca//pml/ctd/5303260349.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,2.0,clean,automatic,hatchback,2007.0
-180,http://vancouver.craigslist.ca//pml/ctd/5281080924.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,77500.0,grey,11998.0,compact,16.0,clean,automatic,sedan,2011.0
-181,http://vancouver.craigslist.ca//rch/ctd/5269841283.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120884.0,,9995.0,,23.0,clean,automatic,,2009.0
-182,http://vancouver.craigslist.ca//van/ctd/5269841295.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120884.0,,9995.0,,23.0,clean,automatic,,2009.0
-183,http://vancouver.craigslist.ca//rds/ctd/5269845885.html,,toyota,like new,,,gas,ctd,corolla,120844.0,,9995.0,,23.0,clean,automatic,,2009.0
-184,http://vancouver.craigslist.ca//bnc/ctd/5269845899.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120844.0,,9995.0,,23.0,clean,automatic,,2009.0
-185,http://vancouver.craigslist.ca//rds/ctd/5261488363.html,Upon Request,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,96000.0,silver,13000.0,mid-size,29.0,clean,automatic,sedan,2010.0
-187,http://vancouver.craigslist.ca//pml/ctd/5306344309.html,,TOYOTA,,,,gas,ctd,COROLLA,56229.0,,16230.0,,0.0,clean,automatic,,2014.0
-189,http://vancouver.craigslist.ca//van/ctd/5292019009.html,,Toyota,Used,,,other,ctd,Corolla,129092.0,black,6890.0,,9.0,clean,manual,other,2000.0
-190,http://vancouver.craigslist.ca//bnc/ctd/5306241847.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,0.0,clean,automatic,sedan,2005.0
-191,http://vancouver.craigslist.ca//rch/ctd/5264270462.html,S14887A,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120793.0,red,9888.0,compact,27.0,clean,manual,sedan,2009.0
-192,http://vancouver.craigslist.ca//bnc/ctd/5306219134.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,0.0,clean,automatic,wagon,2006.0
-193,http://vancouver.craigslist.ca//pml/ctd/5291251215.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,216331.0,,3980.0,compact,10.0,clean,automatic,sedan,2003.0
-194,http://vancouver.craigslist.ca//rch/ctd/5295210629.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,7.0,clean,automatic,sedan,2006.0
-196,http://vancouver.craigslist.ca//bnc/ctd/5305757200.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,0.0,clean,automatic,wagon,2006.0
-197,http://vancouver.craigslist.ca//bnc/ctd/5305756991.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,0.0,clean,automatic,sedan,2005.0
-198,http://vancouver.craigslist.ca//van/ctd/5268186727.html,,Toyota,like new,,fwd,gas,ctd,Corolla,38109.0,white,18980.0,,24.0,clean,automatic,sedan,2015.0
-200,http://vancouver.craigslist.ca//van/ctd/5285421778.html,,Toyota,like new,,fwd,gas,ctd,Corolla,49114.0,silver,16980.0,,13.0,clean,automatic,sedan,2014.0
-201,http://vancouver.craigslist.ca//van/ctd/5285390511.html,,Toyota,like new,,fwd,gas,ctd,Corolla,43741.0,silver,16980.0,,13.0,clean,automatic,sedan,2014.0
-202,http://vancouver.craigslist.ca//van/ctd/5285420641.html,,Toyota,like new,,fwd,gas,ctd,Corolla,53021.0,white,15980.0,,13.0,clean,automatic,sedan,2014.0
-203,http://vancouver.craigslist.ca//van/ctd/5285329966.html,,toyota,excellent,,fwd,gas,ctd,corolla,48502.0,silver,16980.0,,13.0,clean,automatic,sedan,2014.0
-204,http://vancouver.craigslist.ca//rch/ctd/5295344262.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,7.0,clean,automatic,sedan,2006.0
-205,http://vancouver.craigslist.ca//bnc/ctd/5305516455.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,232000.0,grey,5900.0,,0.0,clean,automatic,sedan,2003.0
-206,http://vancouver.craigslist.ca//bnc/ctd/5305503568.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,0.0,clean,automatic,wagon,2006.0
-207,http://vancouver.craigslist.ca//bnc/ctd/5305509956.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,0.0,clean,automatic,sedan,2005.0
-208,http://vancouver.craigslist.ca//rds/ctd/5268200240.html,,toyota,,,,gas,ctd,corolla,35000.0,,19850.0,,24.0,clean,automatic,,2014.0
-209,http://vancouver.craigslist.ca//rds/ctd/5292730379.html,,toyota,excellent,4 cylinders,fwd,diesel,ctd,corolla,107125.0,white,9888.0,mid-size,9.0,clean,automatic,hatchback,2006.0
-210,http://vancouver.craigslist.ca//rch/ctd/5302232402.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,2.0,clean,automatic,sedan,2006.0
-213,http://vancouver.craigslist.ca//rds/ctd/5288842223.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,240000.0,silver,2850.0,compact,11.0,clean,automatic,sedan,2000.0
-214,http://vancouver.craigslist.ca//rds/ctd/5302228336.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,245000.0,grey,3850.0,compact,2.0,clean,automatic,sedan,2004.0
-215,http://vancouver.craigslist.ca//bnc/ctd/5305325413.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,0.0,clean,automatic,wagon,2006.0
-216,http://vancouver.craigslist.ca//rch/ctd/5294360857.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-217,http://vancouver.craigslist.ca//pml/ctd/5300596673.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.0,silver,3995.0,compact,3.0,clean,manual,sedan,2003.0
-218,http://vancouver.craigslist.ca//bnc/ctd/5305327847.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,0.0,clean,automatic,sedan,2005.0
-219,http://vancouver.craigslist.ca//rds/ctd/5270050597.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40541.0,white,14900.0,compact,23.0,clean,automatic,sedan,2014.0
-221,http://vancouver.craigslist.ca//pml/ctd/5287724849.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.0,blue,5999.0,,12.0,rebuilt,automatic,sedan,2007.0
-224,http://vancouver.craigslist.ca//rch/ctd/5305260337.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,0.0,clean,automatic,sedan,2006.0
-225,http://vancouver.craigslist.ca//van/ctd/5290356517.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,53397.0,grey,14995.0,,10.0,clean,automatic,,2012.0
-226,http://vancouver.craigslist.ca//rch/ctd/5305188141.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-227,http://vancouver.craigslist.ca//pml/ctd/5277953053.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,87000.0,grey,11500.0,compact,18.0,clean,manual,sedan,2010.0
-228,http://vancouver.craigslist.ca//rch/ctd/5301587650.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,3.0,clean,automatic,sedan,2006.0
-229,http://vancouver.craigslist.ca//rds/ctd/5268561096.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.0,,4500.0,compact,24.0,clean,automatic,sedan,2000.0
-233,http://vancouver.craigslist.ca//van/ctd/5294560685.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6995.0,,7.0,clean,automatic,,2006.0
-235,http://vancouver.craigslist.ca//van/ctd/5266429545.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6988.0,,25.0,clean,automatic,,2006.0
-236,http://vancouver.craigslist.ca//van/ctd/5267655029.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6988.0,,25.0,clean,automatic,,2006.0
-237,http://vancouver.craigslist.ca//van/ctd/5269637519.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,120000.0,,9888.0,,23.0,clean,manual,,2009.0
-238,http://vancouver.craigslist.ca//van/ctd/5266306873.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6988.0,,26.0,clean,automatic,,2006.0
-239,http://vancouver.craigslist.ca//van/ctd/5278900554.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6988.0,,17.0,clean,automatic,,2006.0
-241,http://vancouver.craigslist.ca//van/ctd/5300601153.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.0,,6988.0,,3.0,clean,automatic,,2006.0
-243,http://vancouver.craigslist.ca//bnc/ctd/5305040202.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,94000.0,grey,7500.0,mid-size,1.0,rebuilt,manual,sedan,2010.0
-246,http://vancouver.craigslist.ca//rds/ctd/5280657086.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,42392.0,silver,14900.0,,16.0,clean,automatic,sedan,2014.0
-255,http://vancouver.craigslist.ca//rds/ctd/5297756901.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,60000.0,red,14995.0,mid-size,5.0,clean,automatic,sedan,2011.0
-257,http://vancouver.craigslist.ca//van/ctd/5259048288.html,,Toyota,new,4 cylinders,,gas,ctd,Corolla,53397.0,grey,13995.0,,30.0,clean,automatic,,2012.0
-261,http://vancouver.craigslist.ca//pml/ctd/5272461266.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.0,silver,3995.0,compact,22.0,clean,manual,sedan,2003.0
-262,http://vancouver.craigslist.ca//rds/ctd/5304906322.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.0,white,13990.0,compact,1.0,clean,automatic,sedan,2014.0
-263,http://vancouver.craigslist.ca//rds/ctd/5262893874.html,Upon Request,toyota,excellent,,fwd,gas,ctd,corolla,96000.0,grey,13000.0,,28.0,clean,automatic,sedan,2010.0
-264,http://vancouver.craigslist.ca//bnc/ctd/5304894915.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,1.0,clean,automatic,wagon,2006.0
-265,http://vancouver.craigslist.ca//bnc/ctd/5304887636.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,1.0,clean,automatic,sedan,2005.0
-267,http://vancouver.craigslist.ca//rds/ctd/5304882506.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,40000.0,silver,14990.0,compact,1.0,clean,automatic,sedan,2014.0
-268,http://vancouver.craigslist.ca//rds/ctd/5300399959.html,,Toyota,,,,gas,ctd,Corolla,35234.0,,16850.0,,4.0,clean,automatic,,2014.0
-270,http://vancouver.craigslist.ca//bnc/ctd/5280393945.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,94800.0,silver,10880.0,mid-size,17.0,clean,automatic,sedan,2009.0
-271,http://vancouver.craigslist.ca//rds/ctd/5282439075.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,47847.0,,12700.0,,15.0,clean,automatic,sedan,2013.0
-272,http://vancouver.craigslist.ca//rch/ctd/5301600277.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,3.0,clean,automatic,sedan,2006.0
-273,http://vancouver.craigslist.ca//rds/ctd/5262881678.html,Upon Request,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,96000.0,silver,13000.0,,28.0,clean,automatic,sedan,2010.0
-274,http://vancouver.craigslist.ca//rch/ctd/5304780399.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-275,http://vancouver.craigslist.ca//pml/ctd/5300892230.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,3.0,clean,automatic,hatchback,2007.0
-276,http://vancouver.craigslist.ca//pml/ctd/5300911740.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,3.0,clean,automatic,hatchback,2007.0
-277,http://vancouver.craigslist.ca//pml/ctd/5301036742.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,3.0,clean,automatic,hatchback,2007.0
-278,http://vancouver.craigslist.ca//rch/ctd/5297499798.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,5.0,clean,automatic,sedan,2006.0
-279,http://vancouver.craigslist.ca//rch/ctd/5296691065.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,6.0,clean,automatic,sedan,2006.0
-280,http://vancouver.craigslist.ca//rch/ctd/5304649651.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.0,blue,5999.0,,1.0,rebuilt,automatic,,2007.0
-281,http://vancouver.craigslist.ca//rds/ctd/5304562800.html,,TOYOTA,excellent,,fwd,gas,ctd,COROLLA,123000.0,blue,5999.0,,1.0,rebuilt,automatic,sedan,2007.0
-282,http://vancouver.craigslist.ca//bnc/ctd/5304559731.html,,TOYOTA,excellent,,fwd,gas,ctd,COROLLA,123000.0,blue,5999.0,,1.0,rebuilt,automatic,,2007.0
-283,http://vancouver.craigslist.ca//rch/ctd/5304318924.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-284,http://vancouver.craigslist.ca//rch/ctd/5304274051.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-285,http://vancouver.craigslist.ca//bnc/ctd/5304282862.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,1.0,clean,automatic,sedan,2005.0
-286,http://vancouver.craigslist.ca//pml/ctd/5277957222.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,84000.0,silver,12500.0,compact,18.0,clean,manual,sedan,2012.0
-287,http://vancouver.craigslist.ca//bnc/ctd/5300889183.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,212000.0,white,4900.0,,3.0,clean,automatic,sedan,2005.0
-289,http://vancouver.craigslist.ca//rds/ctd/5272805594.html,2T1BU40E49C132262,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,121005.0,grey,8999.0,,21.0,clean,manual,sedan,2009.0
-290,http://vancouver.craigslist.ca//pml/ctd/5304053590.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.0,silver,8995.0,,1.0,clean,automatic,hatchback,2007.0
-291,http://vancouver.craigslist.ca//van/ctd/5291029286.html,2T1BU4EE3BC648837,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,67433.0,red,13995.0,,10.0,clean,automatic,sedan,2011.0
-292,http://vancouver.craigslist.ca//bnc/ctd/5287720081.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.0,blue,5999.0,mid-size,12.0,rebuilt,automatic,sedan,2008.0
-293,http://vancouver.craigslist.ca//rds/ctd/5270755745.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,38391.0,grey,14990.0,mid-size,23.0,clean,automatic,sedan,2014.0
-294,http://vancouver.craigslist.ca//rds/ctd/5286744431.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,111016.0,silver,8990.0,mid-size,12.0,clean,automatic,sedan,2009.0
-295,http://vancouver.craigslist.ca//rds/ctd/5291582298.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,99998.0,silver,7390.0,mid-size,9.0,clean,automatic,sedan,2006.0
-301,http://vancouver.craigslist.ca//rch/ctd/5303893902.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-303,http://vancouver.craigslist.ca//pml/ctd/5259123478.html,,Toyota,,,,gas,ctd,Corolla,86698.0,,11400.0,,30.0,clean,manual,,2010.0
-305,http://vancouver.craigslist.ca//pml/ctd/5297312988.html,,Toyota,,,,gas,ctd,Corolla,83365.0,,12400.0,,5.0,clean,manual,,2012.0
-306,http://vancouver.craigslist.ca//rds/ctd/5271115634.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,50640.0,black,14500.0,compact,23.0,clean,automatic,sedan,2014.0
-307,http://vancouver.craigslist.ca//rds/ctd/5272377849.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,53099.0,,12500.0,,22.0,clean,automatic,sedan,2013.0
-308,http://vancouver.craigslist.ca//rch/ctd/5303838131.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-309,http://vancouver.craigslist.ca//rch/ctd/5303845455.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.0,silver,5988.0,compact,1.0,clean,automatic,sedan,2006.0
-310,http://vancouver.craigslist.ca//rch/ctd/5263017915.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,28.0,clean,automatic,sedan,2006.0
-311,http://vancouver.craigslist.ca//rch/ctd/5263216741.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,27.0,clean,automatic,sedan,2006.0
-312,http://vancouver.craigslist.ca//rch/ctd/5290030809.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,10.0,clean,manual,sedan,2009.0
-313,http://vancouver.craigslist.ca//rch/ctd/5293241770.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-314,http://vancouver.craigslist.ca//rch/ctd/5295860398.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,6.0,clean,manual,sedan,2009.0
-315,http://vancouver.craigslist.ca//rch/ctd/5267750851.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,25.0,clean,manual,sedan,2009.0
-316,http://vancouver.craigslist.ca//rch/ctd/5280583260.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,16.0,clean,automatic,sedan,2006.0
-317,http://vancouver.craigslist.ca//rch/ctd/5280601927.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,16.0,clean,manual,sedan,2009.0
-318,http://vancouver.craigslist.ca//rch/ctd/5280608515.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,16.0,clean,manual,sedan,2009.0
-319,http://vancouver.craigslist.ca//rch/ctd/5294213196.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-320,http://vancouver.craigslist.ca//rch/ctd/5294217256.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-321,http://vancouver.craigslist.ca//rch/ctd/5294224142.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-322,http://vancouver.craigslist.ca//rch/ctd/5294231327.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-323,http://vancouver.craigslist.ca//rch/ctd/5294235360.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-324,http://vancouver.craigslist.ca//rch/ctd/5294237793.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.0,silver,5995.0,mid-size,8.0,clean,automatic,sedan,2006.0
-325,http://vancouver.craigslist.ca//rch/ctd/5261421684.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,29.0,clean,automatic,sedan,2006.0
-326,http://vancouver.craigslist.ca//rch/ctd/5266485419.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,25.0,clean,manual,sedan,2009.0
-327,http://vancouver.craigslist.ca//bnc/ctd/5303825359.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,1.0,clean,automatic,sedan,2005.0
-328,http://vancouver.craigslist.ca//pml/ctd/5303738997.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.0,,16246.0,,1.0,clean,automatic,,2013.0
-330,http://vancouver.craigslist.ca//pml/ctd/5275318001.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.0,silver,3995.0,compact,20.0,clean,manual,sedan,2003.0
-334,http://vancouver.craigslist.ca//van/ctd/5295538343.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,232400.0,silver,4890.0,compact,7.0,clean,automatic,sedan,2004.0
-335,http://vancouver.craigslist.ca//bnc/ctd/5269444771.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,170000.0,blue,7900.0,,24.0,clean,automatic,sedan,2006.0
-336,http://vancouver.craigslist.ca//bnc/ctd/5292734109.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,200000.0,grey,3900.0,,9.0,clean,manual,sedan,2004.0
-338,http://vancouver.craigslist.ca//pml/ctd/5283340887.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.0,silver,3995.0,compact,15.0,clean,manual,sedan,2003.0
-339,http://vancouver.craigslist.ca//bnc/ctd/5303444601.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,2.0,clean,automatic,wagon,2006.0
-340,http://vancouver.craigslist.ca//rds/ctd/5271150773.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40540.0,white,14900.0,compact,23.0,clean,automatic,sedan,2014.0
-341,http://vancouver.craigslist.ca//rds/ctd/5261475400.html,Upon Request,toyota,like new,,fwd,gas,ctd,corolla,96000.0,silver,13000.0,,29.0,clean,automatic,sedan,2010.0
-344,http://vancouver.craigslist.ca//bnc/ctd/5303289871.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,2.0,clean,automatic,sedan,2005.0
-345,http://vancouver.craigslist.ca//van/ctd/5256903917.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.0,black,12990.0,,32.0,clean,automatic,SUV,2010.0
-347,http://vancouver.craigslist.ca//rds/ctd/5303246086.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.0,white,13990.0,compact,2.0,clean,automatic,sedan,2014.0
-349,http://vancouver.craigslist.ca//pml/ctd/5302927934.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,2.0,clean,manual,,2009.0
-350,http://vancouver.craigslist.ca//bnc/ctd/5302727224.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,2.0,clean,automatic,wagon,2006.0
-351,http://vancouver.craigslist.ca//bnc/ctd/5302684147.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,2.0,clean,automatic,sedan,2005.0
-352,http://vancouver.craigslist.ca//van/ctd/5302654126.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,25850.0,grey,13990.0,mid-size,2.0,clean,automatic,hatchback,2007.0
-353,http://vancouver.craigslist.ca//van/ctd/5275588036.html,,Toyota,,,,gas,ctd,Corolla,139000.0,,6900.0,,20.0,clean,automatic,,2006.0
-356,http://vancouver.craigslist.ca//van/ctd/5299391153.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,50644.0,blue,15990.0,mid-size,4.0,clean,automatic,sedan,2011.0
-357,http://vancouver.craigslist.ca//nvn/ctd/5287048516.html,2T1BU4EE5DC095496,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,55900.0,silver,14850.0,compact,12.0,clean,automatic,sedan,2013.0
-358,http://vancouver.craigslist.ca//pml/ctd/5284000481.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,65000.0,silver,9888.0,compact,14.0,clean,automatic,sedan,2010.0
-362,http://vancouver.craigslist.ca//rds/ctd/5302303844.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,240000.0,silver,2850.0,compact,2.0,clean,automatic,sedan,2000.0
-363,http://vancouver.craigslist.ca//rds/ctd/5302324838.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,40000.0,silver,14990.0,compact,2.0,clean,automatic,sedan,2014.0
-364,http://vancouver.craigslist.ca//van/ctd/5272944807.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,53000.0,grey,16900.0,,21.0,clean,automatic,sedan,2015.0
-365,http://vancouver.craigslist.ca//van/ctd/5298933980.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,173000.0,grey,5300.0,,4.0,clean,automatic,sedan,2005.0
-366,http://vancouver.craigslist.ca//bnc/ctd/5302291256.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.0,blue,5999.0,compact,2.0,clean,automatic,wagon,2006.0
-367,http://vancouver.craigslist.ca//rds/ctd/5302274715.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,120000.0,,4995.0,compact,2.0,clean,automatic,sedan,2003.0
-368,http://vancouver.craigslist.ca//rds/ctd/5288822037.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,245000.0,grey,3850.0,compact,11.0,clean,automatic,sedan,2004.0
-369,http://vancouver.craigslist.ca//bnc/ctd/5302262354.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,2.0,clean,automatic,sedan,2005.0
-370,http://vancouver.craigslist.ca//rds/ctd/5302242709.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.0,white,13990.0,compact,2.0,clean,automatic,sedan,2014.0
-372,http://vancouver.craigslist.ca//rch/ctd/5265022322.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,26.0,clean,manual,sedan,2009.0
-373,http://vancouver.craigslist.ca//rch/ctd/5265028412.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,26.0,clean,automatic,sedan,2006.0
-374,http://vancouver.craigslist.ca//rch/ctd/5272282872.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,22.0,clean,automatic,sedan,2006.0
-375,http://vancouver.craigslist.ca//rch/ctd/5272537914.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,22.0,clean,automatic,sedan,2006.0
-376,http://vancouver.craigslist.ca//rch/ctd/5284987086.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.0,red,9995.0,mid-size,13.0,clean,manual,sedan,2009.0
-377,http://vancouver.craigslist.ca//rch/ctd/5298872879.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,5.0,clean,automatic,sedan,2006.0
-378,http://vancouver.craigslist.ca//bnc/ctd/5269560590.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,48098.0,silver,16995.0,full-size,24.0,clean,automatic,sedan,2013.0
-379,http://vancouver.craigslist.ca//pml/ctd/5278547807.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.0,silver,3995.0,compact,18.0,clean,manual,sedan,2003.0
-380,http://vancouver.craigslist.ca//rds/ctd/5283450832.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,70300.0,silver,9999.0,,15.0,clean,automatic,sedan,2009.0
-381,http://vancouver.craigslist.ca//rds/ctd/5264524876.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,132000.0,silver,8960.0,,27.0,clean,automatic,,2006.0
-382,http://vancouver.craigslist.ca//bnc/ctd/5301983364.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,3.0,clean,automatic,sedan,2005.0
-385,http://vancouver.craigslist.ca//rds/ctd/5258686682.html,,Toyota,Certified Pre-Owned,4 cylinders,fwd,gas,ctd,Corolla,45543.0,white,13995.0,compact,30.0,clean,automatic,sedan,2013.0
-386,http://vancouver.craigslist.ca//rds/ctd/5301669437.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,50600.0,grey,10995.0,compact,3.0,clean,automatic,sedan,2008.0
-387,http://vancouver.craigslist.ca//bnc/ctd/5301602872.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,3.0,clean,automatic,sedan,2005.0
-388,http://vancouver.craigslist.ca//bnc/ctd/5301123957.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,3.0,clean,automatic,sedan,2005.0
-389,http://vancouver.craigslist.ca//van/ctd/5300964799.html,,TOYOTA,good,4 cylinders,fwd,gas,ctd,COROLLA,61000.0,silver,8988.0,compact,3.0,clean,automatic,,2004.0
-390,http://vancouver.craigslist.ca//rds/ctd/5289615771.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,132000.0,silver,8960.0,,11.0,clean,automatic,,2006.0
-391,http://vancouver.craigslist.ca//rch/ctd/5271204599.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,22.0,clean,automatic,sedan,2006.0
-392,http://vancouver.craigslist.ca//rch/ctd/5273827413.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.0,silver,6995.0,mid-size,21.0,clean,automatic,sedan,2006.0
-393,http://vancouver.craigslist.ca//rds/ctd/5300856353.html,,toyota,good,,,gas,ctd,corolla,172000.0,,1950.0,,3.0,clean,manual,,2002.0
-395,http://vancouver.craigslist.ca//van/ctd/5277810061.html,,Toyota,excellent,,,gas,ctd,Corolla,139000.0,,6900.0,,18.0,clean,automatic,,2006.0
-396,http://vancouver.craigslist.ca//rch/ctd/5300612193.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,190000.0,grey,2995.0,full-size,3.0,clean,automatic,sedan,1999.0
-397,http://vancouver.craigslist.ca//rds/ctd/5300578190.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,57865.0,grey,13850.0,,3.0,clean,automatic,sedan,2012.0
-399,http://vancouver.craigslist.ca//rds/ctd/5290237698.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,173000.0,,2200.0,compact,10.0,clean,automatic,sedan,1999.0
-401,http://vancouver.craigslist.ca//rds/ctd/5256694731.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,50956.0,white,14790.0,mid-size,32.0,clean,automatic,sedan,2014.0
-402,http://vancouver.craigslist.ca//rds/ctd/5256670163.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,50956.0,white,14990.0,mid-size,32.0,clean,automatic,sedan,2014.0
-404,http://vancouver.craigslist.ca//pml/ctd/5300243893.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,236331.0,,3980.0,compact,4.0,clean,automatic,sedan,2003.0
-405,http://vancouver.craigslist.ca//bnc/ctd/5293973979.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.0,,4988.0,,8.0,clean,automatic,,2003.0
-406,http://vancouver.craigslist.ca//pml/ctd/5290488141.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16246.0,,10.0,clean,automatic,,2013.0
-407,http://vancouver.craigslist.ca//pml/ctd/5281149108.html,2T1BU40E79C011886,Toyota,,,,gas,ctd,Corolla,84800.0,,11450.0,,16.0,clean,manual,,2009.0
-408,http://vancouver.craigslist.ca//nvn/ctd/5276219564.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.0,silver,10995.0,,19.0,clean,automatic,,2012.0
-411,http://vancouver.craigslist.ca//pml/ctd/5298596720.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,236331.0,,3980.0,compact,5.0,clean,automatic,sedan,2003.0
-412,http://vancouver.craigslist.ca//pml/ctd/5293861957.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.0,,16246.0,,8.0,clean,automatic,,2013.0
-413,http://vancouver.craigslist.ca//pml/ctd/5293835798.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,8.0,clean,manual,,2009.0
-414,http://vancouver.craigslist.ca//rds/ctd/5270190159.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.0,,4500.0,compact,23.0,clean,automatic,sedan,2000.0
-415,http://vancouver.craigslist.ca//pml/ctd/5297737851.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,236331.0,,3980.0,compact,5.0,clean,automatic,sedan,2003.0
-416,http://vancouver.craigslist.ca//van/ctd/5283902645.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.0,silver,10995.0,,14.0,clean,automatic,,2012.0
-418,http://vancouver.craigslist.ca//rds/ctd/5283655881.html,2T1BU4EE3DC927031,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,26000.0,red,18995.0,compact,14.0,clean,automatic,sedan,2013.0
-419,http://vancouver.craigslist.ca//pml/ctd/5291442973.html,,Toyota,like new,4 cylinders,,gas,ctd,Corolla,97648.0,white,8880.0,,9.0,clean,automatic,,2009.0
-420,http://vancouver.craigslist.ca//rds/ctd/5254040518.html,,Toyota,good,4 cylinders,fwd,gas,ctd,Corolla,94160.0,silver,9980.0,compact,33.0,clean,automatic,sedan,2008.0
-422,http://vancouver.craigslist.ca//rch/ctd/5296882244.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,220000.0,,2500.0,,6.0,clean,automatic,,2002.0
-426,http://vancouver.craigslist.ca//rch/ctd/5296818743.html,2T1BU40E49C128700,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,61900.0,silver,12395.0,compact,6.0,clean,automatic,sedan,2009.0
-427,http://vancouver.craigslist.ca//bnc/ctd/5250944601.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.0,,4988.0,,36.0,clean,automatic,,2003.0
-428,http://vancouver.craigslist.ca//bnc/ctd/5293982185.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.0,,4988.0,,8.0,clean,automatic,,2003.0
-429,http://vancouver.craigslist.ca//pml/ctd/5296216230.html,2T1BU40E79C011886,Toyota,,,,gas,ctd,Corolla,84800.0,,11450.0,,6.0,clean,manual,,2009.0
-430,http://vancouver.craigslist.ca//rch/ctd/5296199136.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,142628.0,silver,5995.0,,6.0,clean,automatic,sedan,2006.0
-431,http://vancouver.craigslist.ca//rch/ctd/5282441165.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,106433.0,silver,6995.0,,15.0,clean,automatic,sedan,2006.0
-432,http://vancouver.craigslist.ca//rch/ctd/5282401985.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,120844.0,red,9995.0,,15.0,clean,automatic,sedan,2009.0
-433,http://vancouver.craigslist.ca//pml/ctd/5256132523.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16246.0,,32.0,clean,automatic,,2013.0
-434,http://vancouver.craigslist.ca//van/ctd/5296149976.html,,Toyota,,,,gas,ctd,Corolla,38000.0,,14800.0,,6.0,clean,automatic,,2013.0
-435,http://vancouver.craigslist.ca//rds/ctd/5277993653.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.0,white,16900.0,compact,18.0,clean,automatic,sedan,2014.0
-436,http://vancouver.craigslist.ca//rds/ctd/5277997216.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.0,white,9900.0,compact,18.0,clean,automatic,sedan,2009.0
-441,http://vancouver.craigslist.ca//rch/ctd/5294443394.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,240000.0,grey,5995.0,full-size,7.0,clean,manual,sedan,2005.0
-442,http://vancouver.craigslist.ca//bnc/ctd/5294392864.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,4750.0,mid-size,7.0,clean,automatic,sedan,2005.0
-443,http://vancouver.craigslist.ca//van/ctd/5285119627.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.0,white,16900.0,compact,13.0,clean,automatic,sedan,2014.0
-444,http://vancouver.craigslist.ca//van/ctd/5285132031.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.0,white,9900.0,compact,13.0,clean,automatic,sedan,2009.0
-445,http://vancouver.craigslist.ca//van/ctd/5285144127.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,160000.0,blue,3800.0,compact,13.0,clean,automatic,sedan,2001.0
-447,http://vancouver.craigslist.ca//pml/ctd/5269471490.html,,Toyota,excellent,,,gas,ctd,Corolla,83365.0,,13000.0,,24.0,clean,manual,,2012.0
-448,http://vancouver.craigslist.ca//pml/ctd/5269484476.html,,Toyota,excellent,,,gas,ctd,Corolla,86698.0,,12300.0,,24.0,clean,manual,,2010.0
-449,http://vancouver.craigslist.ca//pml/ctd/5293369933.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,236331.0,,3980.0,compact,8.0,clean,automatic,sedan,2003.0
-450,http://vancouver.craigslist.ca//rds/ctd/5271087281.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,42338.0,silver,14900.0,compact,23.0,clean,automatic,sedan,2014.0
-451,http://vancouver.craigslist.ca//bnc/ctd/5293164110.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.0,blue,5500.0,mid-size,8.0,clean,automatic,sedan,2005.0
-452,http://vancouver.craigslist.ca//pml/ctd/5284832475.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,97648.0,white,9380.0,compact,14.0,clean,automatic,sedan,2009.0
-454,http://vancouver.craigslist.ca//rds/ctd/5272360564.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,43406.0,,12600.0,compact,22.0,clean,automatic,sedan,2013.0
-456,http://vancouver.craigslist.ca//rds/ctd/5271587796.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,48796.0,,12500.0,,22.0,clean,automatic,sedan,2013.0
-457,http://vancouver.craigslist.ca//rds/ctd/5255058919.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.0,,4500.0,compact,33.0,clean,automatic,sedan,2000.0
-459,http://vancouver.craigslist.ca//rds/ctd/5272996934.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,45994.0,grey,12500.0,mid-size,21.0,clean,automatic,sedan,2013.0
-460,http://vancouver.craigslist.ca//rds/ctd/5269822109.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40541.0,white,14900.0,compact,23.0,clean,automatic,sedan,2014.0
-461,http://vancouver.craigslist.ca//pml/ctd/5291563731.html,,Toyota,like new,4 cylinders,,gas,ctd,Corolla,236331.0,brown,3980.0,,9.0,clean,automatic,,2003.0
-462,http://vancouver.craigslist.ca//rds/ctd/5271253179.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,329656.0,white,2300.0,,22.0,clean,automatic,sedan,1999.0
-464,http://vancouver.craigslist.ca//van/ctd/5246926405.html,,Toyota,excellent,4 cylinders,,gas,ctd,Corolla,138000.0,silver,6450.0,,38.0,clean,automatic,,2006.0
-465,http://vancouver.craigslist.ca//van/ctd/5246928647.html,,Toyota,excellent,5 cylinders,,gas,ctd,Corolla,144000.0,grey,3750.0,,38.0,clean,automatic,,2002.0
-468,http://vancouver.craigslist.ca//van/ctd/5248302198.html,,toyota,good,3 cylinders,fwd,gas,ctd,corolla,105000.0,grey,10900.0,,37.0,clean,automatic,sedan,2009.0
-472,http://vancouver.craigslist.ca//rds/ctd/5255134294.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,43406.0,silver,12600.0,,33.0,clean,automatic,sedan,2013.0
-473,http://vancouver.craigslist.ca//rds/ctd/5283168755.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,52133.0,silver,11900.0,,15.0,clean,automatic,sedan,2013.0
-476,http://vancouver.craigslist.ca//rds/ctd/5282804461.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.0,,16246.0,,15.0,clean,automatic,,2013.0
-477,http://vancouver.craigslist.ca//van/ctd/5277860603.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,106433.0,silver,6995.0,,18.0,clean,automatic,,2006.0
-478,http://vancouver.craigslist.ca//van/ctd/5288017401.html,,Toyota,like new,,fwd,gas,ctd,Corolla,35135.0,silver,16998.0,compact,12.0,clean,automatic,sedan,2014.0
-480,http://vancouver.craigslist.ca//pml/ctd/5274647730.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,20.0,clean,manual,,2009.0
-481,http://vancouver.craigslist.ca//rch/ctd/5245411329.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,39.0,clean,automatic,sedan,2006.0
-486,http://vancouver.craigslist.ca//pml/ctd/5285545209.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,13.0,clean,manual,,2009.0
-492,http://vancouver.craigslist.ca//rds/ctd/5240061649.html,2t1bu4ee1cc859083,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,57865.0,grey,14850.0,compact,43.0,clean,automatic,,2012.0
-495,http://vancouver.craigslist.ca//rds/ctd/5249210027.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,263000.0,green,3300.0,,37.0,clean,automatic,,1999.0
-504,http://vancouver.craigslist.ca//van/ctd/5245479673.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.0,white,16900.0,compact,39.0,clean,automatic,sedan,2014.0
-505,http://vancouver.craigslist.ca//van/ctd/5245482133.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,54000.0,white,14900.0,compact,39.0,clean,automatic,sedan,2013.0
-506,http://vancouver.craigslist.ca//rch/ctd/5246530466.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120844.0,,9995.0,,38.0,clean,manual,,2009.0
-507,http://vancouver.craigslist.ca//bnc/ctd/5304908032.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,15000.0,black,11990.0,compact,1.0,rebuilt,automatic,sedan,2010.0
-508,http://vancouver.craigslist.ca//bnc/ctd/5304223792.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,15000.0,black,11990.0,compact,1.0,rebuilt,automatic,sedan,2010.0
-511,http://vancouver.craigslist.ca//rds/ctd/5256179173.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.0,,16246.0,,32.0,clean,automatic,,2013.0
-512,http://vancouver.craigslist.ca//rch/ctd/5280534916.html,,toyota,,,,gas,ctd,corolla,56000.0,,11995.0,,16.0,clean,automatic,,2013.0
-515,http://vancouver.craigslist.ca//rch/ctd/5243581743.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,40.0,clean,automatic,sedan,2006.0
-519,http://vancouver.craigslist.ca//rds/ctd/5256206999.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,32.0,clean,manual,,2009.0
-523,http://vancouver.craigslist.ca//van/ctd/5275363007.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,125250.0,silver,6900.0,compact,20.0,clean,automatic,sedan,2006.0
-525,http://vancouver.craigslist.ca//bnc/ctd/5232791355.html,,toyota,,,,gas,ctd,corolla,56756.0,,11995.0,,47.0,clean,automatic,,2013.0
-526,http://vancouver.craigslist.ca//nvn/ctd/5256062068.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,55304.0,,13995.0,,32.0,clean,automatic,,2012.0
-527,http://vancouver.craigslist.ca//van/ctd/5274589746.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,159000.0,,6900.0,,20.0,clean,automatic,sedan,2006.0
-533,http://vancouver.craigslist.ca//rch/ctd/5271565593.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,54000.0,white,14900.0,compact,22.0,clean,automatic,sedan,2013.0
-534,http://vancouver.craigslist.ca//rch/ctd/5271543161.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.0,white,9900.0,compact,22.0,clean,automatic,sedan,2009.0
-538,http://vancouver.craigslist.ca//rch/ctd/5243520577.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,40.0,clean,automatic,sedan,2006.0
-541,http://vancouver.craigslist.ca//rds/ctd/5227870896.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40110.0,silver,11888.0,compact,51.0,clean,automatic,sedan,2010.0
-543,http://vancouver.craigslist.ca//rds/ctd/5263698832.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.0,silver,11450.0,,27.0,clean,manual,,2009.0
-544,http://vancouver.craigslist.ca//nvn/ctd/5236368806.html,2T1BR32E64C805473,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,92428.0,black,7900.0,,45.0,clean,automatic,sedan,2004.0
-548,http://vancouver.craigslist.ca//nvn/ctd/5221938958.html,,toyota,,,fwd,gas,ctd,corolla,158000.0,grey,8999.0,,54.0,clean,manual,,2009.0
-549,http://vancouver.craigslist.ca//nvn/ctd/5266181160.html,2T1BU4EE2AC372147,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,69134.0,silver,15995.0,compact,26.0,clean,automatic,sedan,2010.0
-550,http://vancouver.craigslist.ca//rch/ctd/5255464565.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.0,white,15995.0,mid-size,32.0,clean,automatic,hatchback,2013.0
-551,http://vancouver.craigslist.ca//rch/ctd/5255469045.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.0,white,15995.0,mid-size,32.0,clean,automatic,hatchback,2013.0
-552,http://vancouver.craigslist.ca//rch/ctd/5255450646.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.0,white,15995.0,compact,32.0,clean,automatic,hatchback,2013.0
-553,http://vancouver.craigslist.ca//rch/ctd/5228233899.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,145250.0,black,9500.0,mid-size,50.0,clean,automatic,hatchback,2007.0
-554,http://vancouver.craigslist.ca//rch/ctd/5228220432.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,145250.0,black,9500.0,mid-size,50.0,clean,automatic,hatchback,2007.0
-555,http://vancouver.craigslist.ca//rch/ctd/5228243813.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,145250.0,black,9500.0,,50.0,clean,automatic,hatchback,2007.0
-558,http://vancouver.craigslist.ca//rds/ctd/5238027692.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.0,custom,14850.0,mid-size,44.0,clean,automatic,sedan,2012.0
-559,http://vancouver.craigslist.ca//rds/ctd/5255662511.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,52867.0,brown,14850.0,compact,32.0,clean,automatic,sedan,2012.0
-560,http://vancouver.craigslist.ca//rds/ctd/5255626289.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,52867.0,brown,14850.0,compact,32.0,clean,automatic,sedan,2012.0
-561,http://vancouver.craigslist.ca//rds/ctd/5241556464.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.0,,14850.0,compact,42.0,clean,automatic,sedan,2012.0
-562,http://vancouver.craigslist.ca//rds/ctd/5241558335.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.0,,14850.0,compact,42.0,clean,automatic,sedan,2012.0
-564,http://vancouver.craigslist.ca//rch/ctd/5244897883.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.0,silver,6988.0,compact,39.0,clean,automatic,sedan,2006.0
-567,http://vancouver.craigslist.ca//nvn/ctd/5260069263.html,2T1BU4EE2AC44343,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,86165.0,black,10995.0,compact,30.0,clean,automatic,sedan,2010.0
-568,http://vancouver.craigslist.ca//nvn/ctd/5259130811.html,2T1BR32EX6C68055,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,60732.0,grey,9995.0,compact,30.0,clean,automatic,sedan,2006.0
-569,http://vancouver.craigslist.ca//rds/ctd/5258626008.html,,Toyota,,,,gas,ctd,Corolla,129600.0,,6988.0,,31.0,clean,automatic,,2008.0
-570,http://vancouver.craigslist.ca//van/ctd/5222318947.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,35500.0,,17850.0,compact,54.0,clean,automatic,sedan,2014.0
-571,http://vancouver.craigslist.ca//pml/ctd/5213740354.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,83365.0,silver,13280.0,,60.0,clean,manual,sedan,2012.0
-576,http://vancouver.craigslist.ca//rch/ctd/5210976637.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,120844.0,red,9995.0,mid-size,61.0,clean,manual,,2009.0
-579,http://vancouver.craigslist.ca//rds/ctd/5222921020.html,,Toyota,,,,gas,ctd,Corolla,111939.0,,11888.0,,54.0,clean,automatic,,2010.0
-580,http://vancouver.craigslist.ca//van/ctd/5222313539.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,51000.0,,17850.0,compact,54.0,clean,automatic,sedan,2014.0
-581,http://vancouver.craigslist.ca//van/ctd/5222324351.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,37000.0,,17850.0,compact,54.0,clean,automatic,sedan,2013.0
-582,http://vancouver.craigslist.ca//van/ctd/5251162776.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,76000.0,silver,9800.0,compact,35.0,clean,automatic,sedan,2010.0
-583,http://vancouver.craigslist.ca//van/ctd/5251144278.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,70800.0,white,9900.0,compact,35.0,clean,automatic,sedan,2010.0
-586,http://vancouver.craigslist.ca//van/ctd/5217467019.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,51000.0,,17850.0,compact,57.0,clean,automatic,sedan,2014.0
-587,http://vancouver.craigslist.ca//bnc/ctd/5204749572.html,2T1BU4EE4AC325251,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,107000.0,red,10795.0,compact,66.0,clean,automatic,sedan,2010.0
-588,http://vancouver.craigslist.ca//rds/ctd/5210871433.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,184000.0,grey,3250.0,,61.0,clean,automatic,sedan,2002.0
-590,http://vancouver.craigslist.ca//rch/ctd/5206324854.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,30000.0,brown,18900.0,,65.0,clean,automatic,sedan,2014.0
-591,http://vancouver.craigslist.ca//van/ctd/5208283901.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,150000.0,green,3300.0,,63.0,clean,automatic,sedan,2000.0
-592,http://vancouver.craigslist.ca//van/ctd/5212642751.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,150000.0,green,3500.0,,60.0,clean,automatic,sedan,2000.0
-593,http://vancouver.craigslist.ca//van/ctd/5248264840.html,,TOYOTA,,,,gas,ctd,COROLLA,31230.0,,13875.0,,37.0,clean,automatic,,2012.0
-596,http://vancouver.craigslist.ca//van/ctd/5202765833.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.0,black,12990.0,,67.0,clean,automatic,SUV,2010.0
-597,http://vancouver.craigslist.ca//bnc/ctd/5204616848.html,2T1BU4EE7AC243076,Toyota,Used,,fwd,other,ctd,Corolla,66709.0,custom,12998.0,,66.0,clean,automatic,sedan,2010.0
-598,http://vancouver.craigslist.ca//rds/ctd/5202165227.html,2T1BU4EE3DC954021,Toyota,Used,,fwd,other,ctd,Corolla,55106.0,custom,13650.0,,67.0,clean,automatic,other,2013.0
-599,http://vancouver.craigslist.ca//nvn/ctd/5222235141.html,2T1BU4EE0AC319883,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,76900.0,silver,12400.0,compact,54.0,clean,automatic,sedan,2010.0
-602,http://vancouver.craigslist.ca//pml/ctd/5229374632.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,101728.0,black,12990.0,mid-size,50.0,clean,automatic,sedan,2010.0
-608,http://vancouver.craigslist.ca//pml/ctd/5201602137.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,16000.0,black,18000.0,compact,67.0,rebuilt,automatic,sedan,2014.0
-609,http://vancouver.craigslist.ca//van/ctd/5243516540.html,,TOYOTA,,,,gas,ctd,COROLLA,31230.0,,13875.0,,40.0,clean,automatic,,2012.0
-610,http://vancouver.craigslist.ca//van/ctd/5240500950.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.0,black,12990.0,,42.0,clean,automatic,SUV,2010.0
-613,http://vancouver.craigslist.ca//pml/ctd/5198862871.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16247.0,,69.0,clean,automatic,,2013.0
-614,http://vancouver.craigslist.ca//pml/ctd/5224003351.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16246.0,,53.0,clean,automatic,,2013.0
-615,http://vancouver.craigslist.ca//pml/ctd/5205481156.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16247.0,,65.0,clean,automatic,,2013.0
-616,http://vancouver.craigslist.ca//pml/ctd/5211425247.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16246.0,,61.0,clean,automatic,,2013.0
-617,http://vancouver.craigslist.ca//pml/ctd/5236538699.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.0,,16246.0,,45.0,clean,automatic,,2013.0
-621,http://vancouver.craigslist.ca//rds/ctd/5214369278.html,,TOYOTA,good,4 cylinders,fwd,gas,ctd,COROLLA,94160.0,silver,9980.0,compact,59.0,clean,automatic,sedan,2008.0
-627,http://vancouver.craigslist.ca//van/ctd/5190768612.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.0,silver,10995.0,,74.0,clean,automatic,,2012.0
+,Unnamed: 0,URL,VIN,brand,condition,cylinders,drive,fuel,loc_prefixes,model,odometer,paint color,price,size,time_Ad,title status,transmission,type,year,cor_od,cor_tmad,cor_odT,cor_tmadT,cor_mdT
+0,0,http://vancouver.craigslist.ca//bnc/cto/5296519378.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209000.000,green,3200.000,,6.000,clean,automatic,coupe,1999.000,0.015,-0.143,-0.839,0.288,0.927
+1,1,http://vancouver.craigslist.ca//van/cto/5298883982.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209500.000,green,3200.000,compact,5.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+2,2,http://vancouver.craigslist.ca//van/cto/5297618931.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209500.000,green,3200.000,,5.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+3,3,http://vancouver.craigslist.ca//van/cto/5295880076.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,209000.000,,3200.000,,6.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+4,4,http://vancouver.craigslist.ca//rds/cto/5305746841.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,3900.000,mid-size,0.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+5,5,http://vancouver.craigslist.ca//rds/cto/5302096932.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,3900.000,mid-size,3.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+6,6,http://vancouver.craigslist.ca//rds/cto/5290109467.html,,toyota,like new,4 cylinders,,gas,cto,corolla,56990.000,grey,11999.000,,10.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+7,7,http://vancouver.craigslist.ca//rds/cto/5279411831.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,3900.000,mid-size,17.000,clean,automatic,other,2002.000,-0.845,0.084,-0.839,0.288,0.927
+8,9,http://vancouver.craigslist.ca//rds/cto/5306504570.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,corolla,162000.000,brown,3100.000,mid-size,0.000,rebuilt,automatic,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+9,11,http://vancouver.craigslist.ca//bnc/cto/5306478147.html,2T1BA01E3VCC20450,toyota,excellent,,,gas,cto,corolla,118000.000,purple,2000.000,,0.000,clean,automatic,sedan,2007.000,-0.458,0.266,-0.839,0.288,0.927
+10,13,http://vancouver.craigslist.ca//van/cto/5306118102.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,217300.000,red,1500.000,mid-size,0.000,clean,manual,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+11,14,http://vancouver.craigslist.ca//bnc/cto/5305804421.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,83000.000,blue,9999.000,compact,0.000,clean,automatic,wagon,2010.000,-0.147,0.372,-0.839,0.288,0.927
+12,15,http://vancouver.craigslist.ca//van/cto/5305716522.html,,toyota,like new,4 cylinders,,gas,cto,corolla,32300.000,,17900.000,,0.000,clean,automatic,,2014.000,-0.460,0.467,-0.839,0.288,0.927
+13,16,http://vancouver.craigslist.ca//rds/cto/5269165339.html,,toyota,like new,4 cylinders,,gas,cto,corolla,284200.000,brown,1500.000,,24.000,clean,automatic,,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+14,17,http://vancouver.craigslist.ca//rds/cto/5305146442.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,1.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+15,18,http://vancouver.craigslist.ca//rds/cto/5280250720.html,,TOYOTA,,,,gas,cto,COROLLA,36000.000,,11600.000,,17.000,rebuilt,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+16,20,http://vancouver.craigslist.ca//rds/cto/5277889375.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,3900.000,mid-size,18.000,clean,automatic,wagon,2002.000,-0.845,0.084,-0.839,0.288,0.927
+17,21,http://vancouver.craigslist.ca//rds/cto/5294009370.html,,toyota,fair,4 cylinders,,gas,cto,corolla,181000.000,blue,1250.000,,8.000,rebuilt,automatic,,1999.000,0.015,-0.143,-0.839,0.288,0.927
+18,22,http://vancouver.craigslist.ca//rds/cto/5304714529.html,,toyota,,,,gas,cto,corolla,93000.000,,5900.000,,1.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+19,23,http://vancouver.craigslist.ca//van/cto/5304444568.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,150000.000,silver,1900.000,mid-size,1.000,rebuilt,manual,coupe,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+20,24,http://vancouver.craigslist.ca//van/cto/5296916449.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,53000.000,grey,13800.000,compact,6.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+21,25,http://vancouver.craigslist.ca//rds/cto/5304181156.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,1.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+22,26,http://vancouver.craigslist.ca//bnc/cto/5278158770.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,95000.000,red,8750.000,compact,18.000,rebuilt,automatic,hatchback,2010.000,-0.147,0.372,-0.839,0.288,0.927
+23,27,http://vancouver.craigslist.ca//van/cto/5303952462.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,217300.000,red,1700.000,,1.000,clean,manual,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+24,29,http://vancouver.craigslist.ca//rds/cto/5303605622.html,,Toyota,good,,,gas,cto,Corolla,172000.000,silver,6250.000,,2.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+25,30,http://vancouver.craigslist.ca//rds/cto/5303478829.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,corolla,124000.000,grey,8000.000,full-size,2.000,rebuilt,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+26,32,http://vancouver.craigslist.ca//bnc/cto/5303186190.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,193000.000,red,5975.000,compact,2.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+27,33,http://vancouver.craigslist.ca//van/cto/5277989013.html,,Toyota,excellent,4 cylinders,,gas,cto,corolla,165000.000,grey,10500.000,,18.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+28,34,http://vancouver.craigslist.ca//rds/cto/5279732671.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,17.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+29,36,http://vancouver.craigslist.ca//pml/cto/5302275767.html,,TOYOTA,good,4 cylinders,fwd,gas,cto,COROLLA,129000.000,silver,3380.000,full-size,2.000,clean,automatic,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+30,37,http://vancouver.craigslist.ca//rds/cto/5277447668.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,167000.000,blue,6500.000,,18.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+31,38,http://vancouver.craigslist.ca//van/cto/5302075767.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,158000.000,silver,3499.000,compact,3.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+32,39,http://vancouver.craigslist.ca//rds/cto/5256032384.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,248000.000,brown,2400.000,mid-size,32.000,clean,manual,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+33,40,http://vancouver.craigslist.ca//rds/cto/5301362706.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,3.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+34,41,http://vancouver.craigslist.ca//rds/cto/5286936680.html,,TOYOTA,,,,gas,cto,COROLLA,141900.000,grey,9499.000,,12.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+35,42,http://vancouver.craigslist.ca//bnc/cto/5300782936.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,149000.000,white,5600.000,full-size,3.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+36,43,http://vancouver.craigslist.ca//pml/cto/5300695344.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,114000.000,white,4000.000,compact,3.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+37,44,http://vancouver.craigslist.ca//pml/cto/5275228879.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,113000.000,white,4000.000,compact,20.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+38,45,http://vancouver.craigslist.ca//rds/cto/5300675884.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,3.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+39,46,http://vancouver.craigslist.ca//rch/cto/5300556181.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,56000.000,grey,14500.000,,3.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+40,47,http://vancouver.craigslist.ca//van/cto/5282701311.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,80000.000,silver,9500.000,compact,15.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+41,48,http://vancouver.craigslist.ca//rds/cto/5300115149.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,80000.000,white,3000.000,,4.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+42,49,http://vancouver.craigslist.ca//rds/cto/5299755706.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,4.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+43,50,http://vancouver.craigslist.ca//van/cto/5299601308.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,165000.000,silver,3900.000,mid-size,4.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+44,51,http://vancouver.craigslist.ca//van/cto/5299601395.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,165000.000,silver,3900.000,mid-size,4.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+45,52,http://vancouver.craigslist.ca//van/cto/5287860188.html,,toyota,excellent,4 cylinders,,gas,cto,corolla,227000.000,,3400.000,,12.000,clean,manual,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+46,54,http://vancouver.craigslist.ca//rds/cto/5295441147.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,7.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+47,56,http://vancouver.craigslist.ca//rds/cto/5271865465.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,4000.000,mid-size,22.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+48,58,http://vancouver.craigslist.ca//rds/cto/5294441748.html,,Toyota,,,,gas,cto,Corolla,167000.000,,6500.000,,7.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+49,60,http://vancouver.craigslist.ca//van/cto/5294116806.html,2T1BR32E16C614305,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,141000.000,custom,6450.000,compact,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+50,61,http://vancouver.craigslist.ca//van/cto/5294113306.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,141000.000,brown,6450.000,compact,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+51,62,http://vancouver.craigslist.ca//rds/cto/5259225629.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,67882.000,black,12500.000,compact,30.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+52,63,http://vancouver.craigslist.ca//rch/cto/5285508654.html,2T1BU4EE5AC320642,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,49472.000,silver,9800.000,compact,13.000,rebuilt,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+53,64,http://vancouver.craigslist.ca//van/cto/5250816147.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,207000.000,grey,2200.000,full-size,36.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+54,65,http://vancouver.craigslist.ca//van/cto/5285291091.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,152000.000,silver,9500.000,full-size,13.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+55,66,http://vancouver.craigslist.ca//van/cto/5290119741.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,208000.000,yellow,4500.000,compact,10.000,clean,automatic,hatchback,2004.000,-0.923,0.348,-0.839,0.288,0.927
+56,67,http://vancouver.craigslist.ca//rds/cto/5245217506.html,2T1BR32E94C832148,toyota,good,4 cylinders,fwd,gas,cto,corolla,134646.000,black,5500.000,full-size,39.000,rebuilt,manual,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+57,69,http://vancouver.craigslist.ca//van/cto/5285511582.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,39000.000,red,16750.000,full-size,13.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+58,70,http://vancouver.craigslist.ca//rds/cto/5284949705.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,59000.000,grey,11000.000,mid-size,13.000,rebuilt,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+59,71,http://vancouver.craigslist.ca//rds/cto/5260922985.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,4500.000,mid-size,29.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+60,72,http://vancouver.craigslist.ca//bnc/cto/5283733163.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,155000.000,silver,4700.000,,14.000,rebuilt,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+61,73,http://vancouver.craigslist.ca//rch/cto/5283491843.html,,Toyota,good,4 cylinders,rwd,gas,cto,Corolla,204000.000,silver,2800.000,mid-size,15.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+62,74,http://vancouver.craigslist.ca//rch/cto/5281997139.html,,Toyota,like new,4 cylinders,fwd,gas,cto,Corolla,148650.000,white,8500.000,,16.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+63,76,http://vancouver.craigslist.ca//rds/cto/5236219552.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,284200.000,brown,1500.000,mid-size,45.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+64,78,http://vancouver.craigslist.ca//bnc/cto/5280447499.html,2T1BU4EE7AC469165,TOYOTA,good,4 cylinders,fwd,gas,cto,COROLLA,95922.000,grey,7999.000,,17.000,rebuilt,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+65,79,http://vancouver.craigslist.ca//pml/cto/5280307817.html,,toyota,fair,4 cylinders,rwd,gas,cto,corolla,12000.000,white,4200.000,mid-size,17.000,clean,manual,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+66,80,http://vancouver.craigslist.ca//rds/cto/5262370945.html,,toyota,fair,4 cylinders,fwd,gas,cto,corolla,145000.000,brown,4500.000,mid-size,28.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+67,81,http://vancouver.craigslist.ca//rds/cto/5275667956.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,63978.000,silver,15999.000,,19.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+68,82,http://vancouver.craigslist.ca//pml/cto/5274133336.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,111000.000,white,4000.000,compact,20.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+69,90,http://vancouver.craigslist.ca//rds/cto/5270240105.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,210000.000,grey,3800.000,full-size,23.000,rebuilt,automatic,other,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+70,91,http://vancouver.craigslist.ca//pml/cto/5264178986.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.000,white,4100.000,compact,27.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+71,92,http://vancouver.craigslist.ca//van/cto/5268331808.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,260000.000,silver,2300.000,compact,24.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+72,94,http://vancouver.craigslist.ca//pml/cto/5262372675.html,,toyota,,,,gas,cto,corolla,109000.000,,5900.000,,28.000,rebuilt,automatic,,2005.000,-0.480,0.425,-0.839,0.288,0.927
+73,95,http://vancouver.craigslist.ca//rds/cto/5266783366.html,,Toyota,new,4 cylinders,fwd,gas,cto,Corolla,30000.000,white,19800.000,compact,25.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+74,96,http://vancouver.craigslist.ca//pml/cto/5258203821.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,38000.000,grey,9550.000,full-size,31.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+75,97,http://vancouver.craigslist.ca//van/cto/5266497408.html,,toyota,,,,gas,cto,corolla,135000.000,grey,6000.000,,25.000,clean,manual,,2004.000,-0.923,0.348,-0.839,0.288,0.927
+76,98,http://vancouver.craigslist.ca//van/cto/5266497946.html,,toyota,,,,gas,cto,corolla,137000.000,grey,5500.000,,25.000,clean,manual,,2004.000,-0.923,0.348,-0.839,0.288,0.927
+77,100,http://vancouver.craigslist.ca//rds/cto/5266231655.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,119200.000,red,7200.000,compact,26.000,clean,automatic,sedan,2007.000,-0.458,0.266,-0.839,0.288,0.927
+78,101,http://vancouver.craigslist.ca//van/cto/5224962203.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,45000.000,silver,9500.000,compact,53.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+79,102,http://vancouver.craigslist.ca//pml/cto/5262008884.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.000,white,4000.000,compact,28.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+80,103,http://vancouver.craigslist.ca//van/cto/5261204667.html,,Toyota,excellent,4 cylinders,fwd,gas,cto,Corolla,177000.000,grey,3100.000,full-size,29.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+81,104,http://vancouver.craigslist.ca//pml/cto/5219741692.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,220000.000,green,5300.000,compact,56.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+82,105,http://vancouver.craigslist.ca//pml/cto/5258966309.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.000,white,4100.000,compact,30.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+83,107,http://vancouver.craigslist.ca//pml/cto/5256710503.html,,toyota,new,4 cylinders,fwd,gas,cto,corolla,101000.000,white,7900.000,mid-size,32.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+84,109,http://vancouver.craigslist.ca//van/cto/5254166763.html,,Toyota,good,4 cylinders,fwd,gas,cto,Corolla,157800.000,black,5000.000,,33.000,clean,manual,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+85,110,http://vancouver.craigslist.ca//pml/cto/5237589479.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,110000.000,white,4200.000,compact,44.000,rebuilt,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+86,111,http://vancouver.craigslist.ca//pml/cto/5239459951.html,,Toyota,excellent,,,gas,cto,Corolla,90000.000,,3000.000,,43.000,rebuilt,automatic,,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+87,113,http://vancouver.craigslist.ca//van/cto/5251950400.html,,Toyota,good,,,gas,cto,Corolla,250000.000,blue,2000.000,,35.000,clean,automatic,,2002.000,-0.845,0.084,-0.839,0.288,0.927
+88,114,http://vancouver.craigslist.ca//rds/cto/5251450418.html,,toyota,excellent,,,gas,cto,corolla,103000.000,white,6900.000,,35.000,rebuilt,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+89,115,http://vancouver.craigslist.ca//nvn/cto/5226795520.html,2T1BU40EX9C084492,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,99960.000,grey,8500.000,mid-size,51.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+90,117,http://vancouver.craigslist.ca//bnc/cto/5240835895.html,,toyota,good,4 cylinders,fwd,gas,cto,corolla,207000.000,grey,2200.000,full-size,42.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+91,118,http://vancouver.craigslist.ca//van/cto/5241623160.html,,toyota,like new,4 cylinders,,gas,cto,corolla,55000.000,silver,13500.000,,41.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+92,121,http://vancouver.craigslist.ca//pml/cto/5202172859.html,,Toyota,excellent,4 cylinders,,gas,cto,Corolla,210000.000,,4200.000,,67.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+93,122,http://vancouver.craigslist.ca//pml/cto/5247879537.html,,toyota,excellent,4 cylinders,fwd,gas,cto,corolla,230410.000,silver,1850.000,,38.000,rebuilt,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+94,123,http://vancouver.craigslist.ca//bnc/cto/5210779979.html,,toyota,like new,4 cylinders,,gas,cto,corolla,44100.000,brown,9500.000,mid-size,61.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+95,125,http://vancouver.craigslist.ca//rds/cto/5246872790.html,,Toyota,,4 cylinders,fwd,gas,cto,Corolla,36000.000,black,15500.000,sub-compact,38.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+96,127,http://vancouver.craigslist.ca//rds/cto/5241777978.html,,Toyota,good,4 cylinders,fwd,gas,cto,Corolla,134938.000,blue,6000.000,mid-size,41.000,rebuilt,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+97,128,http://vancouver.craigslist.ca//van/cto/5241739089.html,,Toyota,good,,,gas,cto,Corolla,250000.000,blue,2500.000,,41.000,clean,automatic,,2002.000,-0.845,0.084,-0.839,0.288,0.927
+98,129,http://vancouver.craigslist.ca//bnc/cto/5237406515.html,,Toyota,good,4 cylinders,,gas,cto,Corolla,235000.000,silver,3500.000,,44.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+99,132,http://vancouver.craigslist.ca//van/cto/5230915346.html,,toyota,like new,4 cylinders,fwd,gas,cto,corolla,35000.000,grey,10300.000,full-size,49.000,rebuilt,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+100,133,http://vancouver.craigslist.ca//rds/cto/5236165440.html,,toyota,like new,6 cylinders,rwd,gas,cto,corolla,70000.000,red,11000.000,full-size,45.000,clean,automatic,coupe,2012.000,-0.276,0.117,-0.839,0.288,0.927
+101,136,http://vancouver.craigslist.ca//bnc/ctd/5305635986.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,138715.000,green,3995.000,compact,0.000,clean,automatic,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+102,138,http://vancouver.craigslist.ca//rds/ctd/5302244058.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,205000.000,red,4500.000,compact,2.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+103,140,http://vancouver.craigslist.ca//pml/ctd/5280576949.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,114906.000,silver,8800.000,compact,16.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+104,141,http://vancouver.craigslist.ca//rds/ctd/5297802061.html,,toyota,,,,gas,ctd,corolla,229000.000,,5450.000,,5.000,clean,automatic,,2007.000,-0.458,0.266,-0.839,0.288,0.927
+105,142,http://vancouver.craigslist.ca//rch/ctd/5266673544.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,54000.000,silver,12800.000,,25.000,clean,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+106,144,http://vancouver.craigslist.ca//pml/ctd/5261961438.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,114906.000,silver,8800.000,compact,28.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+107,146,http://vancouver.craigslist.ca//van/ctd/5276056016.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,76500.000,white,12500.000,compact,19.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+108,147,http://vancouver.craigslist.ca//rch/ctd/5290401383.html,,toyota,new,,,gas,ctd,corolla,229000.000,,5450.000,,10.000,clean,automatic,,2007.000,-0.458,0.266,-0.839,0.288,0.927
+109,148,http://vancouver.craigslist.ca//rds/ctd/5288826583.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,205000.000,red,4500.000,compact,11.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+110,149,http://vancouver.craigslist.ca//rds/ctd/5283259142.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,87200.000,silver,8900.000,,15.000,clean,automatic,sedan,2007.000,-0.458,0.266,-0.839,0.288,0.927
+111,150,http://vancouver.craigslist.ca//pml/ctd/5269528878.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,114906.000,silver,8800.000,compact,24.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+112,151,http://vancouver.craigslist.ca//bnc/ctd/5290476177.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,138715.000,green,3995.000,compact,10.000,clean,automatic,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+113,152,http://vancouver.craigslist.ca//van/ctd/5257140684.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,114906.000,silver,8800.000,compact,31.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+114,153,http://vancouver.craigslist.ca//bnc/ctd/5302437351.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.000,custom,10995.000,,2.000,clean,automatic,other,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+115,154,http://vancouver.craigslist.ca//bnc/ctd/5296333343.html,,Toyota,Used,,fwd,other,ctd,Corolla,46144.000,custom,12995.000,,6.000,clean,automatic,other,2012.000,-0.276,0.117,-0.839,0.288,0.927
+116,155,http://vancouver.craigslist.ca//bnc/ctd/5266399370.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,40000.000,silver,12900.000,mid-size,25.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+117,156,http://vancouver.craigslist.ca//bnc/ctd/5268206839.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.000,custom,10995.000,,24.000,clean,automatic,other,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+118,157,http://vancouver.craigslist.ca//bnc/ctd/5297765862.html,,Toyota,Used,,fwd,other,ctd,Corolla,46144.000,custom,12995.000,,5.000,clean,automatic,other,2012.000,-0.276,0.117,-0.839,0.288,0.927
+119,158,http://vancouver.craigslist.ca//bnc/ctd/5265692785.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.000,custom,10995.000,,26.000,clean,automatic,other,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+120,160,http://vancouver.craigslist.ca//pml/ctd/5304121215.html,2T1BU40E99C170280,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,114000.000,grey,10888.000,,1.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+121,161,http://vancouver.craigslist.ca//pml/ctd/5304060152.html,2T1BU40E99C170280,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,114000.000,grey,10888.000,,1.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+122,162,http://vancouver.craigslist.ca//rds/ctd/5288028852.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,117764.000,,6400.000,,12.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+123,163,http://vancouver.craigslist.ca//bnc/ctd/5255094932.html,,Toyota,Used,,fwd,other,ctd,Corolla,129956.000,custom,10995.000,,33.000,clean,automatic,other,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+124,164,http://vancouver.craigslist.ca//van/ctd/5250587016.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,23000.000,,16980.000,,36.000,clean,automatic,,2014.000,-0.460,0.467,-0.839,0.288,0.927
+125,165,http://vancouver.craigslist.ca//nvn/ctd/5256108588.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,86165.000,black,12995.000,,32.000,clean,automatic,,2010.000,-0.147,0.372,-0.839,0.288,0.927
+126,174,http://vancouver.craigslist.ca//bnc/ctd/5300208659.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,94000.000,grey,7500.000,mid-size,4.000,rebuilt,manual,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+127,175,http://vancouver.craigslist.ca//pml/ctd/5288279975.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,11.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+128,176,http://vancouver.craigslist.ca//rds/ctd/5283430800.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,135346.000,grey,8995.000,,15.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+129,177,http://vancouver.craigslist.ca//pml/ctd/5288294716.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,11.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+130,178,http://vancouver.craigslist.ca//rds/ctd/5285164477.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,135346.000,grey,8995.000,,13.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+131,179,http://vancouver.craigslist.ca//pml/ctd/5303260349.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,2.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+132,180,http://vancouver.craigslist.ca//pml/ctd/5281080924.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,77500.000,grey,11998.000,compact,16.000,clean,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+133,181,http://vancouver.craigslist.ca//rch/ctd/5269841283.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120884.000,,9995.000,,23.000,clean,automatic,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+134,182,http://vancouver.craigslist.ca//van/ctd/5269841295.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120884.000,,9995.000,,23.000,clean,automatic,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+135,183,http://vancouver.craigslist.ca//rds/ctd/5269845885.html,,toyota,like new,,,gas,ctd,corolla,120844.000,,9995.000,,23.000,clean,automatic,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+136,184,http://vancouver.craigslist.ca//bnc/ctd/5269845899.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120844.000,,9995.000,,23.000,clean,automatic,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+137,185,http://vancouver.craigslist.ca//rds/ctd/5261488363.html,Upon Request,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,96000.000,silver,13000.000,mid-size,29.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+138,187,http://vancouver.craigslist.ca//pml/ctd/5306344309.html,,TOYOTA,,,,gas,ctd,COROLLA,56229.000,,16230.000,,0.000,clean,automatic,,2014.000,-0.460,0.467,-0.839,0.288,0.927
+139,189,http://vancouver.craigslist.ca//van/ctd/5292019009.html,,Toyota,Used,,,other,ctd,Corolla,129092.000,black,6890.000,,9.000,clean,manual,other,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+140,190,http://vancouver.craigslist.ca//bnc/ctd/5306241847.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,0.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+141,191,http://vancouver.craigslist.ca//rch/ctd/5264270462.html,S14887A,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120793.000,red,9888.000,compact,27.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+142,192,http://vancouver.craigslist.ca//bnc/ctd/5306219134.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,0.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+143,193,http://vancouver.craigslist.ca//pml/ctd/5291251215.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,216331.000,,3980.000,compact,10.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+144,194,http://vancouver.craigslist.ca//rch/ctd/5295210629.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,7.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+145,196,http://vancouver.craigslist.ca//bnc/ctd/5305757200.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,0.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+146,197,http://vancouver.craigslist.ca//bnc/ctd/5305756991.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,0.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+147,198,http://vancouver.craigslist.ca//van/ctd/5268186727.html,,Toyota,like new,,fwd,gas,ctd,Corolla,38109.000,white,18980.000,,24.000,clean,automatic,sedan,2015.000,-1.000,1.000,-0.839,0.288,0.927
+148,200,http://vancouver.craigslist.ca//van/ctd/5285421778.html,,Toyota,like new,,fwd,gas,ctd,Corolla,49114.000,silver,16980.000,,13.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+149,201,http://vancouver.craigslist.ca//van/ctd/5285390511.html,,Toyota,like new,,fwd,gas,ctd,Corolla,43741.000,silver,16980.000,,13.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+150,202,http://vancouver.craigslist.ca//van/ctd/5285420641.html,,Toyota,like new,,fwd,gas,ctd,Corolla,53021.000,white,15980.000,,13.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+151,203,http://vancouver.craigslist.ca//van/ctd/5285329966.html,,toyota,excellent,,fwd,gas,ctd,corolla,48502.000,silver,16980.000,,13.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+152,204,http://vancouver.craigslist.ca//rch/ctd/5295344262.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,7.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+153,205,http://vancouver.craigslist.ca//bnc/ctd/5305516455.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,232000.000,grey,5900.000,,0.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+154,206,http://vancouver.craigslist.ca//bnc/ctd/5305503568.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,0.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+155,207,http://vancouver.craigslist.ca//bnc/ctd/5305509956.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,0.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+156,208,http://vancouver.craigslist.ca//rds/ctd/5268200240.html,,toyota,,,,gas,ctd,corolla,35000.000,,19850.000,,24.000,clean,automatic,,2014.000,-0.460,0.467,-0.839,0.288,0.927
+157,209,http://vancouver.craigslist.ca//rds/ctd/5292730379.html,,toyota,excellent,4 cylinders,fwd,diesel,ctd,corolla,107125.000,white,9888.000,mid-size,9.000,clean,automatic,hatchback,2006.000,-0.194,0.378,-0.839,0.288,0.927
+158,210,http://vancouver.craigslist.ca//rch/ctd/5302232402.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,2.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+159,213,http://vancouver.craigslist.ca//rds/ctd/5288842223.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,240000.000,silver,2850.000,compact,11.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+160,214,http://vancouver.craigslist.ca//rds/ctd/5302228336.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,245000.000,grey,3850.000,compact,2.000,clean,automatic,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+161,215,http://vancouver.craigslist.ca//bnc/ctd/5305325413.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,0.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+162,216,http://vancouver.craigslist.ca//rch/ctd/5294360857.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+163,217,http://vancouver.craigslist.ca//pml/ctd/5300596673.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.000,silver,3995.000,compact,3.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+164,218,http://vancouver.craigslist.ca//bnc/ctd/5305327847.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,0.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+165,219,http://vancouver.craigslist.ca//rds/ctd/5270050597.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40541.000,white,14900.000,compact,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+166,221,http://vancouver.craigslist.ca//pml/ctd/5287724849.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.000,blue,5999.000,,12.000,rebuilt,automatic,sedan,2007.000,-0.458,0.266,-0.839,0.288,0.927
+167,224,http://vancouver.craigslist.ca//rch/ctd/5305260337.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,0.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+168,225,http://vancouver.craigslist.ca//van/ctd/5290356517.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,53397.000,grey,14995.000,,10.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+169,226,http://vancouver.craigslist.ca//rch/ctd/5305188141.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+170,227,http://vancouver.craigslist.ca//pml/ctd/5277953053.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,87000.000,grey,11500.000,compact,18.000,clean,manual,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+171,228,http://vancouver.craigslist.ca//rch/ctd/5301587650.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,3.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+172,229,http://vancouver.craigslist.ca//rds/ctd/5268561096.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.000,,4500.000,compact,24.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+173,233,http://vancouver.craigslist.ca//van/ctd/5294560685.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6995.000,,7.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+174,235,http://vancouver.craigslist.ca//van/ctd/5266429545.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6988.000,,25.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+175,236,http://vancouver.craigslist.ca//van/ctd/5267655029.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6988.000,,25.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+176,237,http://vancouver.craigslist.ca//van/ctd/5269637519.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,120000.000,,9888.000,,23.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+177,238,http://vancouver.craigslist.ca//van/ctd/5266306873.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6988.000,,26.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+178,239,http://vancouver.craigslist.ca//van/ctd/5278900554.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6988.000,,17.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+179,241,http://vancouver.craigslist.ca//van/ctd/5300601153.html,CALL/TEXT DARREN,TOYOTA,,,,gas,ctd,COROLLA,106000.000,,6988.000,,3.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+180,243,http://vancouver.craigslist.ca//bnc/ctd/5305040202.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,94000.000,grey,7500.000,mid-size,1.000,rebuilt,manual,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+181,246,http://vancouver.craigslist.ca//rds/ctd/5280657086.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,42392.000,silver,14900.000,,16.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+182,255,http://vancouver.craigslist.ca//rds/ctd/5297756901.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,60000.000,red,14995.000,mid-size,5.000,clean,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+183,257,http://vancouver.craigslist.ca//van/ctd/5259048288.html,,Toyota,new,4 cylinders,,gas,ctd,Corolla,53397.000,grey,13995.000,,30.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+184,261,http://vancouver.craigslist.ca//pml/ctd/5272461266.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.000,silver,3995.000,compact,22.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+185,262,http://vancouver.craigslist.ca//rds/ctd/5304906322.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.000,white,13990.000,compact,1.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+186,263,http://vancouver.craigslist.ca//rds/ctd/5262893874.html,Upon Request,toyota,excellent,,fwd,gas,ctd,corolla,96000.000,grey,13000.000,,28.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+187,264,http://vancouver.craigslist.ca//bnc/ctd/5304894915.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,1.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+188,265,http://vancouver.craigslist.ca//bnc/ctd/5304887636.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,1.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+189,267,http://vancouver.craigslist.ca//rds/ctd/5304882506.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,40000.000,silver,14990.000,compact,1.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+190,268,http://vancouver.craigslist.ca//rds/ctd/5300399959.html,,Toyota,,,,gas,ctd,Corolla,35234.000,,16850.000,,4.000,clean,automatic,,2014.000,-0.460,0.467,-0.839,0.288,0.927
+191,270,http://vancouver.craigslist.ca//bnc/ctd/5280393945.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,94800.000,silver,10880.000,mid-size,17.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+192,271,http://vancouver.craigslist.ca//rds/ctd/5282439075.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,47847.000,,12700.000,,15.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+193,272,http://vancouver.craigslist.ca//rch/ctd/5301600277.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,3.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+194,273,http://vancouver.craigslist.ca//rds/ctd/5262881678.html,Upon Request,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,96000.000,silver,13000.000,,28.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+195,274,http://vancouver.craigslist.ca//rch/ctd/5304780399.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+196,275,http://vancouver.craigslist.ca//pml/ctd/5300892230.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,3.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+197,276,http://vancouver.craigslist.ca//pml/ctd/5300911740.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,3.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+198,277,http://vancouver.craigslist.ca//pml/ctd/5301036742.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,3.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+199,278,http://vancouver.craigslist.ca//rch/ctd/5297499798.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,5.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+200,279,http://vancouver.craigslist.ca//rch/ctd/5296691065.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,6.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+201,280,http://vancouver.craigslist.ca//rch/ctd/5304649651.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.000,blue,5999.000,,1.000,rebuilt,automatic,,2007.000,-0.458,0.266,-0.839,0.288,0.927
+202,281,http://vancouver.craigslist.ca//rds/ctd/5304562800.html,,TOYOTA,excellent,,fwd,gas,ctd,COROLLA,123000.000,blue,5999.000,,1.000,rebuilt,automatic,sedan,2007.000,-0.458,0.266,-0.839,0.288,0.927
+203,282,http://vancouver.craigslist.ca//bnc/ctd/5304559731.html,,TOYOTA,excellent,,fwd,gas,ctd,COROLLA,123000.000,blue,5999.000,,1.000,rebuilt,automatic,,2007.000,-0.458,0.266,-0.839,0.288,0.927
+204,283,http://vancouver.craigslist.ca//rch/ctd/5304318924.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+205,284,http://vancouver.craigslist.ca//rch/ctd/5304274051.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+206,285,http://vancouver.craigslist.ca//bnc/ctd/5304282862.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,1.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+207,286,http://vancouver.craigslist.ca//pml/ctd/5277957222.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,84000.000,silver,12500.000,compact,18.000,clean,manual,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+208,287,http://vancouver.craigslist.ca//bnc/ctd/5300889183.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,212000.000,white,4900.000,,3.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+209,289,http://vancouver.craigslist.ca//rds/ctd/5272805594.html,2T1BU40E49C132262,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,121005.000,grey,8999.000,,21.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+210,290,http://vancouver.craigslist.ca//pml/ctd/5304053590.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,136542.000,silver,8995.000,,1.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+211,291,http://vancouver.craigslist.ca//van/ctd/5291029286.html,2T1BU4EE3BC648837,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,67433.000,red,13995.000,,10.000,clean,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+212,292,http://vancouver.craigslist.ca//bnc/ctd/5287720081.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,123000.000,blue,5999.000,mid-size,12.000,rebuilt,automatic,sedan,2008.000,-0.889,0.144,-0.839,0.288,0.927
+213,293,http://vancouver.craigslist.ca//rds/ctd/5270755745.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,38391.000,grey,14990.000,mid-size,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+214,294,http://vancouver.craigslist.ca//rds/ctd/5286744431.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,111016.000,silver,8990.000,mid-size,12.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+215,295,http://vancouver.craigslist.ca//rds/ctd/5291582298.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,99998.000,silver,7390.000,mid-size,9.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+216,301,http://vancouver.craigslist.ca//rch/ctd/5303893902.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+217,303,http://vancouver.craigslist.ca//pml/ctd/5259123478.html,,Toyota,,,,gas,ctd,Corolla,86698.000,,11400.000,,30.000,clean,manual,,2010.000,-0.147,0.372,-0.839,0.288,0.927
+218,305,http://vancouver.craigslist.ca//pml/ctd/5297312988.html,,Toyota,,,,gas,ctd,Corolla,83365.000,,12400.000,,5.000,clean,manual,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+219,306,http://vancouver.craigslist.ca//rds/ctd/5271115634.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,50640.000,black,14500.000,compact,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+220,307,http://vancouver.craigslist.ca//rds/ctd/5272377849.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,53099.000,,12500.000,,22.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+221,308,http://vancouver.craigslist.ca//rch/ctd/5303838131.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+222,309,http://vancouver.craigslist.ca//rch/ctd/5303845455.html,S15927B,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,142618.000,silver,5988.000,compact,1.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+223,310,http://vancouver.craigslist.ca//rch/ctd/5263017915.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,28.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+224,311,http://vancouver.craigslist.ca//rch/ctd/5263216741.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,27.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+225,312,http://vancouver.craigslist.ca//rch/ctd/5290030809.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,10.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+226,313,http://vancouver.craigslist.ca//rch/ctd/5293241770.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+227,314,http://vancouver.craigslist.ca//rch/ctd/5295860398.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,6.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+228,315,http://vancouver.craigslist.ca//rch/ctd/5267750851.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,25.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+229,316,http://vancouver.craigslist.ca//rch/ctd/5280583260.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,16.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+230,317,http://vancouver.craigslist.ca//rch/ctd/5280601927.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,16.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+231,318,http://vancouver.craigslist.ca//rch/ctd/5280608515.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,16.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+232,319,http://vancouver.craigslist.ca//rch/ctd/5294213196.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+233,320,http://vancouver.craigslist.ca//rch/ctd/5294217256.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+234,321,http://vancouver.craigslist.ca//rch/ctd/5294224142.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+235,322,http://vancouver.craigslist.ca//rch/ctd/5294231327.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+236,323,http://vancouver.craigslist.ca//rch/ctd/5294235360.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+237,324,http://vancouver.craigslist.ca//rch/ctd/5294237793.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,142628.000,silver,5995.000,mid-size,8.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+238,325,http://vancouver.craigslist.ca//rch/ctd/5261421684.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,29.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+239,326,http://vancouver.craigslist.ca//rch/ctd/5266485419.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,25.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+240,327,http://vancouver.craigslist.ca//bnc/ctd/5303825359.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,1.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+241,328,http://vancouver.craigslist.ca//pml/ctd/5303738997.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.000,,16246.000,,1.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+242,330,http://vancouver.craigslist.ca//pml/ctd/5275318001.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.000,silver,3995.000,compact,20.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+243,334,http://vancouver.craigslist.ca//van/ctd/5295538343.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,232400.000,silver,4890.000,compact,7.000,clean,automatic,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+244,335,http://vancouver.craigslist.ca//bnc/ctd/5269444771.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,170000.000,blue,7900.000,,24.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+245,336,http://vancouver.craigslist.ca//bnc/ctd/5292734109.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,200000.000,grey,3900.000,,9.000,clean,manual,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+246,338,http://vancouver.craigslist.ca//pml/ctd/5283340887.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.000,silver,3995.000,compact,15.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+247,339,http://vancouver.craigslist.ca//bnc/ctd/5303444601.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,2.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+248,340,http://vancouver.craigslist.ca//rds/ctd/5271150773.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40540.000,white,14900.000,compact,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+249,341,http://vancouver.craigslist.ca//rds/ctd/5261475400.html,Upon Request,toyota,like new,,fwd,gas,ctd,corolla,96000.000,silver,13000.000,,29.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+250,344,http://vancouver.craigslist.ca//bnc/ctd/5303289871.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,2.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+251,345,http://vancouver.craigslist.ca//van/ctd/5256903917.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.000,black,12990.000,,32.000,clean,automatic,SUV,2010.000,-0.147,0.372,-0.839,0.288,0.927
+252,347,http://vancouver.craigslist.ca//rds/ctd/5303246086.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.000,white,13990.000,compact,2.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+253,349,http://vancouver.craigslist.ca//pml/ctd/5302927934.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,2.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+254,350,http://vancouver.craigslist.ca//bnc/ctd/5302727224.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,2.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+255,351,http://vancouver.craigslist.ca//bnc/ctd/5302684147.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,2.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+256,352,http://vancouver.craigslist.ca//van/ctd/5302654126.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,25850.000,grey,13990.000,mid-size,2.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+257,353,http://vancouver.craigslist.ca//van/ctd/5275588036.html,,Toyota,,,,gas,ctd,Corolla,139000.000,,6900.000,,20.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+258,356,http://vancouver.craigslist.ca//van/ctd/5299391153.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,50644.000,blue,15990.000,mid-size,4.000,clean,automatic,sedan,2011.000,-0.401,-0.553,-0.839,0.288,0.927
+259,357,http://vancouver.craigslist.ca//nvn/ctd/5287048516.html,2T1BU4EE5DC095496,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,55900.000,silver,14850.000,compact,12.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+260,358,http://vancouver.craigslist.ca//pml/ctd/5284000481.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,65000.000,silver,9888.000,compact,14.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+261,362,http://vancouver.craigslist.ca//rds/ctd/5302303844.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,240000.000,silver,2850.000,compact,2.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+262,363,http://vancouver.craigslist.ca//rds/ctd/5302324838.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,40000.000,silver,14990.000,compact,2.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+263,364,http://vancouver.craigslist.ca//van/ctd/5272944807.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,53000.000,grey,16900.000,,21.000,clean,automatic,sedan,2015.000,-1.000,1.000,-0.839,0.288,0.927
+264,365,http://vancouver.craigslist.ca//van/ctd/5298933980.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,173000.000,grey,5300.000,,4.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+265,366,http://vancouver.craigslist.ca//bnc/ctd/5302291256.html,2T1KR32E06C591857,toyota,good,4 cylinders,fwd,gas,ctd,corolla,165000.000,blue,5999.000,compact,2.000,clean,automatic,wagon,2006.000,-0.194,0.378,-0.839,0.288,0.927
+266,367,http://vancouver.craigslist.ca//rds/ctd/5302274715.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,120000.000,,4995.000,compact,2.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+267,368,http://vancouver.craigslist.ca//rds/ctd/5288822037.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,245000.000,grey,3850.000,compact,11.000,clean,automatic,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+268,369,http://vancouver.craigslist.ca//bnc/ctd/5302262354.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,2.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+269,370,http://vancouver.craigslist.ca//rds/ctd/5302242709.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,49000.000,white,13990.000,compact,2.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+270,372,http://vancouver.craigslist.ca//rch/ctd/5265022322.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,26.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+271,373,http://vancouver.craigslist.ca//rch/ctd/5265028412.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,26.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+272,374,http://vancouver.craigslist.ca//rch/ctd/5272282872.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,22.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+273,375,http://vancouver.craigslist.ca//rch/ctd/5272537914.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,22.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+274,376,http://vancouver.craigslist.ca//rch/ctd/5284987086.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,120782.000,red,9995.000,mid-size,13.000,clean,manual,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+275,377,http://vancouver.craigslist.ca//rch/ctd/5298872879.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,5.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+276,378,http://vancouver.craigslist.ca//bnc/ctd/5269560590.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,48098.000,silver,16995.000,full-size,24.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+277,379,http://vancouver.craigslist.ca//pml/ctd/5278547807.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,245000.000,silver,3995.000,compact,18.000,clean,manual,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+278,380,http://vancouver.craigslist.ca//rds/ctd/5283450832.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,70300.000,silver,9999.000,,15.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+279,381,http://vancouver.craigslist.ca//rds/ctd/5264524876.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,132000.000,silver,8960.000,,27.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+280,382,http://vancouver.craigslist.ca//bnc/ctd/5301983364.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,3.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+281,385,http://vancouver.craigslist.ca//rds/ctd/5258686682.html,,Toyota,Certified Pre-Owned,4 cylinders,fwd,gas,ctd,Corolla,45543.000,white,13995.000,compact,30.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+282,386,http://vancouver.craigslist.ca//rds/ctd/5301669437.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,50600.000,grey,10995.000,compact,3.000,clean,automatic,sedan,2008.000,-0.889,0.144,-0.839,0.288,0.927
+283,387,http://vancouver.craigslist.ca//bnc/ctd/5301602872.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,3.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+284,388,http://vancouver.craigslist.ca//bnc/ctd/5301123957.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,3.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+285,389,http://vancouver.craigslist.ca//van/ctd/5300964799.html,,TOYOTA,good,4 cylinders,fwd,gas,ctd,COROLLA,61000.000,silver,8988.000,compact,3.000,clean,automatic,,2004.000,-0.923,0.348,-0.839,0.288,0.927
+286,390,http://vancouver.craigslist.ca//rds/ctd/5289615771.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,132000.000,silver,8960.000,,11.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+287,391,http://vancouver.craigslist.ca//rch/ctd/5271204599.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,22.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+288,392,http://vancouver.craigslist.ca//rch/ctd/5273827413.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,106433.000,silver,6995.000,mid-size,21.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+289,393,http://vancouver.craigslist.ca//rds/ctd/5300856353.html,,toyota,good,,,gas,ctd,corolla,172000.000,,1950.000,,3.000,clean,manual,,2002.000,-0.845,0.084,-0.839,0.288,0.927
+290,395,http://vancouver.craigslist.ca//van/ctd/5277810061.html,,Toyota,excellent,,,gas,ctd,Corolla,139000.000,,6900.000,,18.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+291,396,http://vancouver.craigslist.ca//rch/ctd/5300612193.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,190000.000,grey,2995.000,full-size,3.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+292,397,http://vancouver.craigslist.ca//rds/ctd/5300578190.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,57865.000,grey,13850.000,,3.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+293,399,http://vancouver.craigslist.ca//rds/ctd/5290237698.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,173000.000,,2200.000,compact,10.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+294,401,http://vancouver.craigslist.ca//rds/ctd/5256694731.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,50956.000,white,14790.000,mid-size,32.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+295,402,http://vancouver.craigslist.ca//rds/ctd/5256670163.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,50956.000,white,14990.000,mid-size,32.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+296,404,http://vancouver.craigslist.ca//pml/ctd/5300243893.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,236331.000,,3980.000,compact,4.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+297,405,http://vancouver.craigslist.ca//bnc/ctd/5293973979.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.000,,4988.000,,8.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+298,406,http://vancouver.craigslist.ca//pml/ctd/5290488141.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16246.000,,10.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+299,407,http://vancouver.craigslist.ca//pml/ctd/5281149108.html,2T1BU40E79C011886,Toyota,,,,gas,ctd,Corolla,84800.000,,11450.000,,16.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+300,408,http://vancouver.craigslist.ca//nvn/ctd/5276219564.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.000,silver,10995.000,,19.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+301,411,http://vancouver.craigslist.ca//pml/ctd/5298596720.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,236331.000,,3980.000,compact,5.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+302,412,http://vancouver.craigslist.ca//pml/ctd/5293861957.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.000,,16246.000,,8.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+303,413,http://vancouver.craigslist.ca//pml/ctd/5293835798.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,8.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+304,414,http://vancouver.craigslist.ca//rds/ctd/5270190159.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.000,,4500.000,compact,23.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+305,415,http://vancouver.craigslist.ca//pml/ctd/5297737851.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,236331.000,,3980.000,compact,5.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+306,416,http://vancouver.craigslist.ca//van/ctd/5283902645.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.000,silver,10995.000,,14.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+307,418,http://vancouver.craigslist.ca//rds/ctd/5283655881.html,2T1BU4EE3DC927031,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,26000.000,red,18995.000,compact,14.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+308,419,http://vancouver.craigslist.ca//pml/ctd/5291442973.html,,Toyota,like new,4 cylinders,,gas,ctd,Corolla,97648.000,white,8880.000,,9.000,clean,automatic,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+309,420,http://vancouver.craigslist.ca//rds/ctd/5254040518.html,,Toyota,good,4 cylinders,fwd,gas,ctd,Corolla,94160.000,silver,9980.000,compact,33.000,clean,automatic,sedan,2008.000,-0.889,0.144,-0.839,0.288,0.927
+310,422,http://vancouver.craigslist.ca//rch/ctd/5296882244.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,220000.000,,2500.000,,6.000,clean,automatic,,2002.000,-0.845,0.084,-0.839,0.288,0.927
+311,426,http://vancouver.craigslist.ca//rch/ctd/5296818743.html,2T1BU40E49C128700,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,61900.000,silver,12395.000,compact,6.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+312,427,http://vancouver.craigslist.ca//bnc/ctd/5250944601.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.000,,4988.000,,36.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+313,428,http://vancouver.craigslist.ca//bnc/ctd/5293982185.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,162000.000,,4988.000,,8.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+314,429,http://vancouver.craigslist.ca//pml/ctd/5296216230.html,2T1BU40E79C011886,Toyota,,,,gas,ctd,Corolla,84800.000,,11450.000,,6.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+315,430,http://vancouver.craigslist.ca//rch/ctd/5296199136.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,142628.000,silver,5995.000,,6.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+316,431,http://vancouver.craigslist.ca//rch/ctd/5282441165.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,106433.000,silver,6995.000,,15.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+317,432,http://vancouver.craigslist.ca//rch/ctd/5282401985.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,120844.000,red,9995.000,,15.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+318,433,http://vancouver.craigslist.ca//pml/ctd/5256132523.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16246.000,,32.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+319,434,http://vancouver.craigslist.ca//van/ctd/5296149976.html,,Toyota,,,,gas,ctd,Corolla,38000.000,,14800.000,,6.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+320,435,http://vancouver.craigslist.ca//rds/ctd/5277993653.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.000,white,16900.000,compact,18.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+321,436,http://vancouver.craigslist.ca//rds/ctd/5277997216.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.000,white,9900.000,compact,18.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+322,441,http://vancouver.craigslist.ca//rch/ctd/5294443394.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,240000.000,grey,5995.000,full-size,7.000,clean,manual,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+323,442,http://vancouver.craigslist.ca//bnc/ctd/5294392864.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,4750.000,mid-size,7.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+324,443,http://vancouver.craigslist.ca//van/ctd/5285119627.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.000,white,16900.000,compact,13.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+325,444,http://vancouver.craigslist.ca//van/ctd/5285132031.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.000,white,9900.000,compact,13.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+326,445,http://vancouver.craigslist.ca//van/ctd/5285144127.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,160000.000,blue,3800.000,compact,13.000,clean,automatic,sedan,2001.000,-0.836,-0.612,-0.839,0.288,0.927
+327,447,http://vancouver.craigslist.ca//pml/ctd/5269471490.html,,Toyota,excellent,,,gas,ctd,Corolla,83365.000,,13000.000,,24.000,clean,manual,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+328,448,http://vancouver.craigslist.ca//pml/ctd/5269484476.html,,Toyota,excellent,,,gas,ctd,Corolla,86698.000,,12300.000,,24.000,clean,manual,,2010.000,-0.147,0.372,-0.839,0.288,0.927
+329,449,http://vancouver.craigslist.ca//pml/ctd/5293369933.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,236331.000,,3980.000,compact,8.000,clean,automatic,sedan,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+330,450,http://vancouver.craigslist.ca//rds/ctd/5271087281.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,42338.000,silver,14900.000,compact,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+331,451,http://vancouver.craigslist.ca//bnc/ctd/5293164110.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,180000.000,blue,5500.000,mid-size,8.000,clean,automatic,sedan,2005.000,-0.480,0.425,-0.839,0.288,0.927
+332,452,http://vancouver.craigslist.ca//pml/ctd/5284832475.html,,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,97648.000,white,9380.000,compact,14.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+333,454,http://vancouver.craigslist.ca//rds/ctd/5272360564.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,43406.000,,12600.000,compact,22.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+334,456,http://vancouver.craigslist.ca//rds/ctd/5271587796.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,48796.000,,12500.000,,22.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+335,457,http://vancouver.craigslist.ca//rds/ctd/5255058919.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,157000.000,,4500.000,compact,33.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+336,459,http://vancouver.craigslist.ca//rds/ctd/5272996934.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,45994.000,grey,12500.000,mid-size,21.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+337,460,http://vancouver.craigslist.ca//rds/ctd/5269822109.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40541.000,white,14900.000,compact,23.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+338,461,http://vancouver.craigslist.ca//pml/ctd/5291563731.html,,Toyota,like new,4 cylinders,,gas,ctd,Corolla,236331.000,brown,3980.000,,9.000,clean,automatic,,2003.000,-0.483,-0.192,-0.839,0.288,0.927
+339,462,http://vancouver.craigslist.ca//rds/ctd/5271253179.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,329656.000,white,2300.000,,22.000,clean,automatic,sedan,1999.000,0.015,-0.143,-0.839,0.288,0.927
+340,464,http://vancouver.craigslist.ca//van/ctd/5246926405.html,,Toyota,excellent,4 cylinders,,gas,ctd,Corolla,138000.000,silver,6450.000,,38.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+341,465,http://vancouver.craigslist.ca//van/ctd/5246928647.html,,Toyota,excellent,5 cylinders,,gas,ctd,Corolla,144000.000,grey,3750.000,,38.000,clean,automatic,,2002.000,-0.845,0.084,-0.839,0.288,0.927
+342,468,http://vancouver.craigslist.ca//van/ctd/5248302198.html,,toyota,good,3 cylinders,fwd,gas,ctd,corolla,105000.000,grey,10900.000,,37.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+343,472,http://vancouver.craigslist.ca//rds/ctd/5255134294.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,43406.000,silver,12600.000,,33.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+344,473,http://vancouver.craigslist.ca//rds/ctd/5283168755.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,52133.000,silver,11900.000,,15.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+345,476,http://vancouver.craigslist.ca//rds/ctd/5282804461.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.000,,16246.000,,15.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+346,477,http://vancouver.craigslist.ca//van/ctd/5277860603.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,106433.000,silver,6995.000,,18.000,clean,automatic,,2006.000,-0.194,0.378,-0.839,0.288,0.927
+347,478,http://vancouver.craigslist.ca//van/ctd/5288017401.html,,Toyota,like new,,fwd,gas,ctd,Corolla,35135.000,silver,16998.000,compact,12.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+348,480,http://vancouver.craigslist.ca//pml/ctd/5274647730.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,20.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+349,481,http://vancouver.craigslist.ca//rch/ctd/5245411329.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,39.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+350,486,http://vancouver.craigslist.ca//pml/ctd/5285545209.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,13.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+351,492,http://vancouver.craigslist.ca//rds/ctd/5240061649.html,2t1bu4ee1cc859083,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,57865.000,grey,14850.000,compact,43.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+352,495,http://vancouver.craigslist.ca//rds/ctd/5249210027.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,263000.000,green,3300.000,,37.000,clean,automatic,,1999.000,0.015,-0.143,-0.839,0.288,0.927
+353,504,http://vancouver.craigslist.ca//van/ctd/5245479673.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,47000.000,white,16900.000,compact,39.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+354,505,http://vancouver.craigslist.ca//van/ctd/5245482133.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,54000.000,white,14900.000,compact,39.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+355,506,http://vancouver.craigslist.ca//rch/ctd/5246530466.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,120844.000,,9995.000,,38.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+356,507,http://vancouver.craigslist.ca//bnc/ctd/5304908032.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,15000.000,black,11990.000,compact,1.000,rebuilt,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+357,508,http://vancouver.craigslist.ca//bnc/ctd/5304223792.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,15000.000,black,11990.000,compact,1.000,rebuilt,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+358,511,http://vancouver.craigslist.ca//rds/ctd/5256179173.html,2T1BU4EE0DC991625,TOYOTA,,,fwd,gas,ctd,COROLLA,22916.000,,16246.000,,32.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+359,512,http://vancouver.craigslist.ca//rch/ctd/5280534916.html,,toyota,,,,gas,ctd,corolla,56000.000,,11995.000,,16.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+360,515,http://vancouver.craigslist.ca//rch/ctd/5243581743.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,40.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+361,519,http://vancouver.craigslist.ca//rds/ctd/5256206999.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,32.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+362,523,http://vancouver.craigslist.ca//van/ctd/5275363007.html,,toyota,,4 cylinders,fwd,gas,ctd,corolla,125250.000,silver,6900.000,compact,20.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+363,525,http://vancouver.craigslist.ca//bnc/ctd/5232791355.html,,toyota,,,,gas,ctd,corolla,56756.000,,11995.000,,47.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+364,526,http://vancouver.craigslist.ca//nvn/ctd/5256062068.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,55304.000,,13995.000,,32.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+365,527,http://vancouver.craigslist.ca//van/ctd/5274589746.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,159000.000,,6900.000,,20.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+366,533,http://vancouver.craigslist.ca//rch/ctd/5271565593.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,54000.000,white,14900.000,compact,22.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+367,534,http://vancouver.craigslist.ca//rch/ctd/5271543161.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,79000.000,white,9900.000,compact,22.000,clean,automatic,sedan,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+368,538,http://vancouver.craigslist.ca//rch/ctd/5243520577.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,40.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+369,541,http://vancouver.craigslist.ca//rds/ctd/5227870896.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,40110.000,silver,11888.000,compact,51.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+370,543,http://vancouver.craigslist.ca//rds/ctd/5263698832.html,2T1BU40E79C011886,TOYOTA,,,fwd,gas,ctd,COROLLA,84800.000,silver,11450.000,,27.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+371,544,http://vancouver.craigslist.ca//nvn/ctd/5236368806.html,2T1BR32E64C805473,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,92428.000,black,7900.000,,45.000,clean,automatic,sedan,2004.000,-0.923,0.348,-0.839,0.288,0.927
+372,548,http://vancouver.craigslist.ca//nvn/ctd/5221938958.html,,toyota,,,fwd,gas,ctd,corolla,158000.000,grey,8999.000,,54.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+373,549,http://vancouver.craigslist.ca//nvn/ctd/5266181160.html,2T1BU4EE2AC372147,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,69134.000,silver,15995.000,compact,26.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+374,550,http://vancouver.craigslist.ca//rch/ctd/5255464565.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.000,white,15995.000,mid-size,32.000,clean,automatic,hatchback,2013.000,-0.632,0.159,-0.839,0.288,0.927
+375,551,http://vancouver.craigslist.ca//rch/ctd/5255469045.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.000,white,15995.000,mid-size,32.000,clean,automatic,hatchback,2013.000,-0.632,0.159,-0.839,0.288,0.927
+376,552,http://vancouver.craigslist.ca//rch/ctd/5255450646.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,51362.000,white,15995.000,compact,32.000,clean,automatic,hatchback,2013.000,-0.632,0.159,-0.839,0.288,0.927
+377,553,http://vancouver.craigslist.ca//rch/ctd/5228233899.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,145250.000,black,9500.000,mid-size,50.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+378,554,http://vancouver.craigslist.ca//rch/ctd/5228220432.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,145250.000,black,9500.000,mid-size,50.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+379,555,http://vancouver.craigslist.ca//rch/ctd/5228243813.html,,toyota,like new,4 cylinders,,gas,ctd,corolla,145250.000,black,9500.000,,50.000,clean,automatic,hatchback,2007.000,-0.458,0.266,-0.839,0.288,0.927
+380,558,http://vancouver.craigslist.ca//rds/ctd/5238027692.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.000,custom,14850.000,mid-size,44.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+381,559,http://vancouver.craigslist.ca//rds/ctd/5255662511.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,52867.000,brown,14850.000,compact,32.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+382,560,http://vancouver.craigslist.ca//rds/ctd/5255626289.html,,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,52867.000,brown,14850.000,compact,32.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+383,561,http://vancouver.craigslist.ca//rds/ctd/5241556464.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.000,,14850.000,compact,42.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+384,562,http://vancouver.craigslist.ca//rds/ctd/5241558335.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,52882.000,,14850.000,compact,42.000,clean,automatic,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+385,564,http://vancouver.craigslist.ca//rch/ctd/5244897883.html,S15224A,TOYOTA,excellent,4 cylinders,,gas,ctd,COROLLA,106328.000,silver,6988.000,compact,39.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+386,567,http://vancouver.craigslist.ca//nvn/ctd/5260069263.html,2T1BU4EE2AC44343,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,86165.000,black,10995.000,compact,30.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+387,568,http://vancouver.craigslist.ca//nvn/ctd/5259130811.html,2T1BR32EX6C68055,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,60732.000,grey,9995.000,compact,30.000,clean,automatic,sedan,2006.000,-0.194,0.378,-0.839,0.288,0.927
+388,569,http://vancouver.craigslist.ca//rds/ctd/5258626008.html,,Toyota,,,,gas,ctd,Corolla,129600.000,,6988.000,,31.000,clean,automatic,,2008.000,-0.889,0.144,-0.839,0.288,0.927
+389,570,http://vancouver.craigslist.ca//van/ctd/5222318947.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,35500.000,,17850.000,compact,54.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+390,571,http://vancouver.craigslist.ca//pml/ctd/5213740354.html,,Toyota,,4 cylinders,,gas,ctd,Corolla,83365.000,silver,13280.000,,60.000,clean,manual,sedan,2012.000,-0.276,0.117,-0.839,0.288,0.927
+391,576,http://vancouver.craigslist.ca//rch/ctd/5210976637.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,120844.000,red,9995.000,mid-size,61.000,clean,manual,,2009.000,-0.549,-0.078,-0.839,0.288,0.927
+392,579,http://vancouver.craigslist.ca//rds/ctd/5222921020.html,,Toyota,,,,gas,ctd,Corolla,111939.000,,11888.000,,54.000,clean,automatic,,2010.000,-0.147,0.372,-0.839,0.288,0.927
+393,580,http://vancouver.craigslist.ca//van/ctd/5222313539.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,51000.000,,17850.000,compact,54.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+394,581,http://vancouver.craigslist.ca//van/ctd/5222324351.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,37000.000,,17850.000,compact,54.000,clean,automatic,sedan,2013.000,-0.632,0.159,-0.839,0.288,0.927
+395,582,http://vancouver.craigslist.ca//van/ctd/5251162776.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,76000.000,silver,9800.000,compact,35.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+396,583,http://vancouver.craigslist.ca//van/ctd/5251144278.html,,Toyota,like new,4 cylinders,fwd,gas,ctd,Corolla,70800.000,white,9900.000,compact,35.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+397,586,http://vancouver.craigslist.ca//van/ctd/5217467019.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,51000.000,,17850.000,compact,57.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+398,587,http://vancouver.craigslist.ca//bnc/ctd/5204749572.html,2T1BU4EE4AC325251,TOYOTA,excellent,4 cylinders,fwd,gas,ctd,COROLLA,107000.000,red,10795.000,compact,66.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+399,588,http://vancouver.craigslist.ca//rds/ctd/5210871433.html,,toyota,excellent,4 cylinders,,gas,ctd,corolla,184000.000,grey,3250.000,,61.000,clean,automatic,sedan,2002.000,-0.845,0.084,-0.839,0.288,0.927
+400,590,http://vancouver.craigslist.ca//rch/ctd/5206324854.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,30000.000,brown,18900.000,,65.000,clean,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+401,591,http://vancouver.craigslist.ca//van/ctd/5208283901.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,150000.000,green,3300.000,,63.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+402,592,http://vancouver.craigslist.ca//van/ctd/5212642751.html,,toyota,good,4 cylinders,fwd,gas,ctd,corolla,150000.000,green,3500.000,,60.000,clean,automatic,sedan,2000.000,-0.595,-0.185,-0.839,0.288,0.927
+403,593,http://vancouver.craigslist.ca//van/ctd/5248264840.html,,TOYOTA,,,,gas,ctd,COROLLA,31230.000,,13875.000,,37.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+404,596,http://vancouver.craigslist.ca//van/ctd/5202765833.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.000,black,12990.000,,67.000,clean,automatic,SUV,2010.000,-0.147,0.372,-0.839,0.288,0.927
+405,597,http://vancouver.craigslist.ca//bnc/ctd/5204616848.html,2T1BU4EE7AC243076,Toyota,Used,,fwd,other,ctd,Corolla,66709.000,custom,12998.000,,66.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+406,598,http://vancouver.craigslist.ca//rds/ctd/5202165227.html,2T1BU4EE3DC954021,Toyota,Used,,fwd,other,ctd,Corolla,55106.000,custom,13650.000,,67.000,clean,automatic,other,2013.000,-0.632,0.159,-0.839,0.288,0.927
+407,599,http://vancouver.craigslist.ca//nvn/ctd/5222235141.html,2T1BU4EE0AC319883,toyota,excellent,4 cylinders,fwd,gas,ctd,corolla,76900.000,silver,12400.000,compact,54.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+408,602,http://vancouver.craigslist.ca//pml/ctd/5229374632.html,,TOYOTA,like new,4 cylinders,fwd,gas,ctd,COROLLA,101728.000,black,12990.000,mid-size,50.000,clean,automatic,sedan,2010.000,-0.147,0.372,-0.839,0.288,0.927
+409,608,http://vancouver.craigslist.ca//pml/ctd/5201602137.html,,toyota,like new,4 cylinders,fwd,gas,ctd,corolla,16000.000,black,18000.000,compact,67.000,rebuilt,automatic,sedan,2014.000,-0.460,0.467,-0.839,0.288,0.927
+410,609,http://vancouver.craigslist.ca//van/ctd/5243516540.html,,TOYOTA,,,,gas,ctd,COROLLA,31230.000,,13875.000,,40.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
+411,610,http://vancouver.craigslist.ca//van/ctd/5240500950.html,,Toyota,excellent,,fwd,gas,ctd,Corolla,101728.000,black,12990.000,,42.000,clean,automatic,SUV,2010.000,-0.147,0.372,-0.839,0.288,0.927
+412,613,http://vancouver.craigslist.ca//pml/ctd/5198862871.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16247.000,,69.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+413,614,http://vancouver.craigslist.ca//pml/ctd/5224003351.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16246.000,,53.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+414,615,http://vancouver.craigslist.ca//pml/ctd/5205481156.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16247.000,,65.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+415,616,http://vancouver.craigslist.ca//pml/ctd/5211425247.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16246.000,,61.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+416,617,http://vancouver.craigslist.ca//pml/ctd/5236538699.html,2T1BU4EE0DC991625,Toyota,,,,gas,ctd,Corolla,22916.000,,16246.000,,45.000,clean,automatic,,2013.000,-0.632,0.159,-0.839,0.288,0.927
+417,621,http://vancouver.craigslist.ca//rds/ctd/5214369278.html,,TOYOTA,good,4 cylinders,fwd,gas,ctd,COROLLA,94160.000,silver,9980.000,compact,59.000,clean,automatic,sedan,2008.000,-0.889,0.144,-0.839,0.288,0.927
+418,627,http://vancouver.craigslist.ca//van/ctd/5190768612.html,,Toyota,excellent,4 cylinders,fwd,gas,ctd,Corolla,60537.000,silver,10995.000,,74.000,clean,automatic,,2012.000,-0.276,0.117,-0.839,0.288,0.927
