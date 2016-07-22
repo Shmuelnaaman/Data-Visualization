@@ -42,7 +42,9 @@ As you can see most of the points I mention are related to how design considerat
 
 Resource: 
 https://google.github.io/styleguide/javascriptguide.xml#JavaScript_Style_Rules
+
 http://d3js.org/
+
 http://stackoverflow.com/
 
 
